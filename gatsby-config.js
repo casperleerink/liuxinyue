@@ -32,6 +32,7 @@ module.exports = {
     // `gatsby-plugin-offline`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sass`,
+    `gatsby-plugin-netlify-cms`,
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
