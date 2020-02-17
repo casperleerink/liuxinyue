@@ -2,50 +2,16 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import styled from "styled-components"
-import { useStaticQuery, graphql, Link } from "gatsby"
+// import styled from "styled-components"
+import { Link } from "gatsby"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from '@fortawesome/free-solid-svg-icons'
 
 import Menu from "./menu"
-import "./layout.css"
+import "../layout.scss";
 
 const widthBreakPoint = 768
 
-const LayoutDesktop = styled.div`
-  display: grid;
-  grid-gap: 0;
-  grid-template-areas:
-    'title title title title title menu'
-    'main main main main main menu';
-`
-const LayoutMobile = styled.div`
-  display: grid;
-  grid-gap: 10px;
-  grid-template-columns: auto auto auto auto auto auto;
-  grid-template-rows: 100px auto;
-  // grid-template-areas:
-  //   'title title title title title bars'
-  //   'menu menu menu menu menu menu'
-  //   'main main main main main main';
-`
-
-
-const Title = styled.div`
-  grid-column: 1 / 6;
-  grid-row: 1 / 2;
-  color: black;
-`
-const Bars = styled.div`
-  grid-column: 6 / 7;
-  grid-row: 1 / 2;
-  cursor: pointer;
-`
-
-const Main = styled.div`
-  grid-column: 1 / 6;
-  grid-row: 2 / 3;
-`
 
 class Layout extends React.Component {
   constructor(props) {
@@ -53,6 +19,7 @@ class Layout extends React.Component {
     this.state = {
       menuExpanded: false,
     };
+    this.handleToggle = this.handleToggle.bind(this);
   }
 
   handleToggle(e) {
@@ -61,43 +28,72 @@ class Layout extends React.Component {
         menuExpanded: !this.state.menuExpanded
     });
   }
+  // this.data = useStaticQuery(graphql`
+  //     query SiteTitleQuery {
+  //       site {
+  //         siteMetadata {
+  //           title
+  //         }
+  //       }
+  //     }
+  //   `)
 
   render() {
-    const data = useStaticQuery(graphql`
-      query SiteTitleQuery {
-        site {
-          siteMetadata {
-            title
-          }
-        }
-      }
-    `)
-
     let width = window.innerWidth;
     if (width < widthBreakPoint) {
       //mobile view
+      const { menuExpanded } = this.state;
+      let menu;
+      if (menuExpanded) {
+        //render the menu only if user clicks on bar icon
+        menu = <Menu style={{
+          display: "block",
+          width: "100%",
+          float: "left",
+        }}/>
+      } else {
+        menu = null;
+      }
       return (
-        <LayoutMobile>
-          <Title>
-            <h1>
-              <Link to="/">{data.site.siteMetadata.title}</Link>
-            </h1>
-          </Title>
-          <Bars><FontAwesomeIcon icon={faBars} size='2x' onClick={e => this.handleToggle(e)}/></Bars>
-          <Menu isMobile={true} menuExpanded={this.state.menuExpanded}/>
-          <Main>{children}</Main>
-        </LayoutMobile>
+        <div className="mobile-container" >
+          <h1 style={{
+            display: "block",
+            width: "90%",
+            float: "left"
+          }}>
+            <Link to="/">Xinyue Liu</Link>
+          </h1>
+          <FontAwesomeIcon icon= {faBars} size= '2x' onClick= {this.handleToggle} className="bars"/>
+          {menu}
+          <main style= {{
+            display:"block",
+            width: "100%",
+            float: "left",
+          }}>{this.props.children}</main>
+        </div>
       )
     } else {
       //desktop view
       return (
-        <LayoutDesktop>
-          <Title>
-            <h1><Link to="/">{data.site.siteMetadata.title}</Link></h1>
-          </Title>
-          <Main>{children}</Main>
-          <Menu isMobile={false} /> 
-        </LayoutDesktop>
+        <div className="desktop-container">
+          <h1 style={{
+            display: "block",
+            width: "100%",
+            float: "left"
+          }}>
+            <Link to="/">Xinyue Liu</Link>
+          </h1>
+          <main style={{
+            display: "block",
+            width: "90%",
+            float: "left",
+          }} >{this.props.children}</main>
+          <Menu style={{
+            display: "block",
+            width: "10%",
+            float: "left",
+          }} />
+        </div>
       )
     }
   }

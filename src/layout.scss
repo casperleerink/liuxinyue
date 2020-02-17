@@ -1,0 +1,66 @@
+$font-stack: 'Roboto', sans-serif;
+$text-color: #222;
+$text-color-lighter: #616161;
+$background-color: #f5efef;
+
+* {
+    box-sizing: border-box;
+}
+
+body { 
+    background: $background-color;
+    color: $text-color;
+    font: 100% $font-stack;
+}
+a {
+    text-decoration: none;
+    color: $text-color;
+    :hover {
+        text-decoration: none;
+    }
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 10px 0;
+}
+
+.desktop-container {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+    width: 90%;
+    float: left;
+}
+
+.mobile-container {
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 20px;
+    width: 94%;
+    float: left;
+}
+
+.bars {
+    display: block;
+    width: 10%;
+    float: left;
+    margin: 10px 0;
+    color: $text-color;
+    cursor: pointer;
+}
+
+.menu-item {
+    display: block;
+    padding: 5px 0;
+}
+
+.dropdown-menu-item {
+    display: block;
+    padding: 4px 0;
+    padding-left: 12px;
+    a {
+        color: $text-color-lighter;
+        font-size: 85%;
+    }
+}
