@@ -4,14 +4,25 @@ import React from "react"
 import PropTypes from "prop-types"
 // import styled from "styled-components"
 import { Link } from "gatsby"
-import Media from "react-media"
+import { useMediaQuery } from 'react-responsive'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from '@fortawesome/free-solid-svg-icons'
 
 import Menu from "./menu"
 import "../layout.scss";
 
-const widthBreakPoint = 768
+const Desktop = ({ children }) => {
+  const isDesktop = useMediaQuery({ minWidth: 651 })
+  return isDesktop ? children : null
+}
+
+const Mobile = ({ children }) => {
+  const isMobile = useMediaQuery({ maxWidth: 650 })
+  return isMobile ? children : null
+}
+
+
+
 
 
 class Layout extends React.Component {
@@ -29,73 +40,64 @@ class Layout extends React.Component {
         menuExpanded: !this.state.menuExpanded
     });
   }
-  // this.data = useStaticQuery(graphql`
-  //     query SiteTitleQuery {
-  //       site {
-  //         siteMetadata {
-  //           title
-  //         }
-  //       }
-  //     }
-  //   `)
 
   render() {
     const { menuExpanded } = this.state;
-      let menu;
-      if (menuExpanded) {
-        //render the menu only if user clicks on bar icon
-        menu = <Menu style={{
-          display: "block",
-          width: "100%",
-          float: "left",
-        }}/>
-      } else {
-        menu = null;
-      }
+    let menu;
+    if (menuExpanded) {
+      //render the menu only if user clicks on bar icon
+      menu = <Menu style={{
+        display: "block",
+        width: "100%",
+        float: "left",
+      }}/>
+    } else {
+      menu = null;
+    }
     return (
-      <Media queries={{ small: { maxWidth: 599 } }}>
-          {matches =>
-            matches.small ? (
-              <div className="mobile-container" >
-                <h1 style={{
-                  display: "block",
-                  width: "90%",
-                  float: "left"
-                }}>
-                  <Link to="/">Xinyue Liu</Link>
-                </h1>
-                <FontAwesomeIcon icon= {faBars} size= '2x' onClick= {this.handleToggle} className="bars"/>
-                {menu}
-                <main style= {{
-                  display:"block",
-                  width: "100%",
-                  float: "left",
-                }}>{this.props.children}</main>
-              </div>
-            ) : (
-              <div className="desktop-container">
-                <h1 style={{
-                  display: "block",
-                  width: "100%",
-                  float: "left"
-                }}>
-                  <Link to="/">Xinyue Liu</Link>
-                </h1>
-                <main style={{
-                  display: "block",
-                  width: "90%",
-                  float: "left",
-                }} >{this.props.children}</main>
-                <Menu style={{
-                  display: "block",
-                  width: "10%",
-                  float: "left",
-                }} />
-              </div>
-            )
-          }
-        </Media>
+    <div>
+      <Mobile>
+        <div className="mobile-container" >
+          <h1 style={{
+            display: "block",
+            width: "90%",
+            float: "left"
+          }}>
+            <Link to="/">Xinyue Liu</Link>
+          </h1>
+          <FontAwesomeIcon icon= {faBars} size= '2x' onClick= {this.handleToggle} className="bars"/>
+          {menu}
+          <main style= {{
+            display:"block",
+            width: "100%",
+            float: "left",
+          }}>{this.props.children}</main>
+        </div>
+      </Mobile>
+      <Desktop>
+        <div className="desktop-container">
+          <h1 style={{
+            display: "block",
+            width: "100%",
+            float: "left"
+          }}>
+            <Link to="/">Xinyue Liu</Link>
+          </h1>
+          <main style={{
+            display: "block",
+            width: "90%",
+            float: "left",
+          }} >{this.props.children}</main>
+          <Menu style={{
+            display: "block",
+            width: "10%",
+            float: "left",
+          }} />
+        </div>
+      </Desktop>
+    </div>
     )
+        
   }
 }
 
