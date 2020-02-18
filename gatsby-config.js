@@ -32,7 +32,15 @@ module.exports = {
     // `gatsby-plugin-offline`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sass`,
-    `gatsby-plugin-netlify-cms`,
+    //netlify CMS
+    {
+      resolve: `gatsby-plugin-netlify-cms`,
+      options: {
+        modulePath: `${__dirname}/src/cms/cms.js`,
+      }
+
+    },
+    //google fonts
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
