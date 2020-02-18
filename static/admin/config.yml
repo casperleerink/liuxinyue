@@ -24,3 +24,10 @@ collections:
               width: 400
               quality: auto
               crop: fill
+  - name: still
+    label: Still
+    folder: still
+    create: true
+    fields: - { label: 'Title', name: 'title', widget: 'string'}
+              { label: 'Main Image', name: 'main_image', widget: 'image'}
+              { label: 'Gallery Images', name: 'gallery_images', widget: 'list', field: {label: 'Gallery Image', name: 'gallery_image', widget: 'image'}}
