@@ -1,14 +1,26 @@
 backend:
   name: github
   repo: casperleerink/liuxinyue
-media_folder: static/assets
-public_folder: assets
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: casperleerink
+    api_key: 173738255589443
 collections:
   - name: home
     label: Homepage
     folder: home
     create: true
     fields:
-      - { name: date, label: Date, widget: datetime }
-      - { name: title, label: Title }
-      - { name: body, label: Body, widget: markdown }
+    - name: 'image'
+      label: 'Homepage Image' 
+      widget: 'image'
+      required: false
+      tagname: ''
+      media_library:
+        config:
+          default_transformations:
+            - fetch_format: auto
+              width: 400
+              quality: auto
+              crop: fill
