@@ -32,13 +32,13 @@ module.exports = {
     // `gatsby-plugin-offline`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sass`,
+    `gatsby-transformer-remark`,
     //netlify CMS
     {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
       }
-
     },
     //google fonts
     {
@@ -49,6 +49,14 @@ module.exports = {
         ],
         display: 'swap'
       }
+    },
+    //source filesystem
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `still`,
+        path: `${__dirname}/content/still`,
+      },
     },
   ],
 }

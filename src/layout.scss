@@ -1,7 +1,12 @@
 $font-stack: 'Roboto', sans-serif;
-$text-color: #222;
+$text-color: #884040;
 $text-color-lighter: #616161;
-$background-color: #f5efef;
+$background-color: #f6f8f4;
+
+
+@mixin mobile {
+    @media (max-width: 599px) { @content; }
+}
 
 * {
     box-sizing: border-box;
@@ -25,42 +30,101 @@ h1 {
     margin: 10px 0;
 }
 
-.desktop-container {
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 20px;
-    width: 90%;
-    float: left;
-}
-
-.mobile-container {
+.layout-container {
     margin-left: 3%;
     margin-right: 3%;
-    margin-top: 20px;
+    margin-top: 40px;
     width: 94%;
     float: left;
+    @include mobile {
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 20px;
+        width: 90%;
+    }
+}
+
+.header {
+    display: block;
+    width: 15%;
+    float: right;
+    @include mobile {
+        width: 100%;
+        float: left;
+    }
+}
+.main-content {
+    display: block;
+    width: 85%;
+    float: right;
+    @include mobile {
+        width: 100%;
+        float: left;
+    }
+}
+
+.title {
+    @include mobile {
+        display: block;
+        width: 90%;
+        float: left;
+    }
 }
 
 .bars {
-    display: block;
-    width: 10%;
-    float: left;
-    margin: 10px 0;
-    color: $text-color;
-    cursor: pointer;
+    display: none;
+    @include mobile {
+        //only show bars on mobile view
+        display: block;
+        width: 10%;
+        float: left;
+        margin: 10px 0;
+        color: $text-color;
+        cursor: pointer;
+    }
 }
-
-.menu-item {
+.menu-items {
     display: block;
-    padding: 5px 0;
+    @include mobile {
+        // only collapse when view is mobile
+        width: 100%;
+        float: left;
+        text-align: right;
+        max-height: 0;
+        transition: max-height 500ms ease-out;
+        overflow: hidden;
+        &.expanded {
+            max-height: 800px;
+        }
+    }
+    .menu-item {
+        display: block;
+        padding: 5px 0;
+        font-size: 85%;
+        @include mobile {
+            padding: 7px 0;
+        }
+    }
+}
+.dropdown-menu-items {
+    max-height: 0;
+    transition: max-height 300ms ease-out;
+    overflow: hidden;
+    &.expanded {
+        max-height: 300px;
+    }
 }
 
 .dropdown-menu-item {
     display: block;
     padding: 4px 0;
-    padding-left: 12px;
+    padding-left: 10px;
     a {
-        color: $text-color-lighter;
-        font-size: 85%;
+        // color: $text-color-lighter;
+        font-size: 76%;
+        opacity: 0.8;
+    }
+    @include mobile {
+        padding: 6px 0;
     }
 }

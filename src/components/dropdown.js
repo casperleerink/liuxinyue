@@ -20,23 +20,17 @@ class Dropdown extends React.Component {
 
     render() {
         const { isExpanded } = this.state;
-        let content;
-        if (isExpanded) {
-            content = this.props.children;
-        } else {
-            content = false;
-        }
         return (
             <div>
                 <div className="menu-item">
-                    <p onClick={this.handleToggle} style={{cursor: "pointer", display: "inline"}} >
+                    <a onClick={this.handleToggle} style={{cursor: "pointer", display: "inline"}} >
                         <FontAwesomeIcon icon= { isExpanded ? faCaretDown : faCaretRight } size="xs"/>
                         {` `}
                         {this.props.buttonContent}
-                    </p>
+                    </a>
                 </div>
-                <div>
-                    { content }
+                <div className={`dropdown-menu-items ${isExpanded ? "expanded" : ""}`}>
+                    { this.props.children }
                 </div>
             </div>
         )
