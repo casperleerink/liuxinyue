@@ -44,14 +44,14 @@ const Menu = () => {
   `)
   const stillDropdownItems = data.stills.edges.map((item) =>
       <div className="dropdown-menu-item">
-        <Link to={`/still${item.node.fields.slug}`} activeClassName="link-active">
+        <Link to={`${item.node.fields.slug}`} activeClassName="link-active">
           {item.node.frontmatter.title}
         </Link>
       </div>
   );
   const moveDropdownItems = data.moves.edges.map((item) => 
     <div className="dropdown-menu-item">
-      <Link to={`/still${item.node.fields.slug}`} activeClassName="link-active">
+      <Link to={`${item.node.fields.slug}`} activeClassName="link-active">
         {item.node.frontmatter.title}
       </Link>
     </div>

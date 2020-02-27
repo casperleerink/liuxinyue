@@ -8,6 +8,7 @@ backend:
 #     api_key: 173738255589443
 media_folder: static/assets
 public_folder: /assets
+logo_url: "https://cdn.dribbble.com/users/610636/screenshots/6454161/sloth_2-01.png"
 collections:
   - label: "Pages" 
     name: "pages"
@@ -22,7 +23,7 @@ collections:
           - {label: "Text bottom", name: "textBottom", widget: "string"}
       - label: "About Page"
         name: "about"
-        file: "src/pages/about/index.md"
+        file: "src/pages/about.md"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Image top", name: "imageTop", widget: "image"}
