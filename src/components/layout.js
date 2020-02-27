@@ -1,22 +1,20 @@
 //See: https://www.gatsbyjs.org/docs/use-static-query/
 import React from "react"
 import PropTypes from "prop-types"
+// import {useStaticQuery, graphql} from "gatsby"
 
 import Menu from "./menu"
 import "../layout.scss";
 
 
+const Layout = ({children}) => {
 
-class Layout extends React.Component {
-  render() {
-    return (
-        <div className="layout-container" >
-          <Menu/>
-          <main className="main-content">{this.props.children}</main>
-        </div>
-    )
-        
-  }
+  return (
+    <div className="layout-container" >
+      <Menu />
+      <main className="main-content">{children}</main>
+    </div>
+  )
 }
 
 Layout.propTypes = {

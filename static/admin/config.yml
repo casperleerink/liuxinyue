@@ -9,30 +9,42 @@ backend:
 media_folder: static/assets
 public_folder: /assets
 collections:
-  - name: home
-    label: Homepage
-    folder: content/home
-    create: true
-    fields:
-    - name: 'image'
-      label: 'Homepage Image' 
-      widget: 'image'
-      tagname: ''
+  - label: "Pages" 
+    name: "pages"
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "src/pages/home.md"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
+          - {label: "Text top", name: "textTop", widget: "string"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Text bottom", name: "textBottom", widget: "string"}
+      - label: "About Page"
+        name: "about"
+        file: "src/pages/about/index.md"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Image top", name: "imageTop", widget: "image"}
+          - {label: "Text", name: "text", widget: "text"}
+          - {label: "Image bottom", name: "imageBottom", widget: "image"}
   - name: still
     label: Still
-    folder: content/home
+    folder: src/pages/still
     create: true
-    fields: 
-      - label: Title 
-        name: title 
-        widget: string
-      - label: Main Image
-        name: main_image
-        widget: image
-      - label: Gallery Images
-        name: gallery_images
-        widget: list
-        field:
-          - label: Gallery Image
-            name: gallery_image
-            widget: image
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "still-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: "", dateFormat: "DD.MM.YYYY", timeFormat: false}
+      - {label: "Main Image", name: "main_image", widget: "image"}
+      - {label: "body", name: "body", widget: "markdown"}
+  - name: move
+    label: Move
+    folder: src/pages/move
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "move-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: "", dateFormat: "DD.MM.YYYY", timeFormat: false}
+      - {label: "Main Image", name: "mainImage", widget: "image"}
+      - {label: "body", name: "body", widget: "markdown"}

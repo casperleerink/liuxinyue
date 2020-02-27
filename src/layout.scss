@@ -1,7 +1,8 @@
 $font-stack: 'Roboto', sans-serif;
-$text-color: #884040;
+$text-color: #7f2417;
 $text-color-lighter: #616161;
-$background-color: #f6f8f4;
+$text-color-hover: #E9BAB3;
+$background-color: #f2f7f2;
 
 
 @mixin mobile {
@@ -22,13 +23,26 @@ a {
     color: $text-color;
     :hover {
         text-decoration: none;
+        color: $text-color-hover;
     }
+}
+button {
+    font-size: 100%;
+    font-family: inherit;
+    border: 0;
+    padding: 0;
+    color: inherit;
+    background-color: inherit;
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
     margin: 10px 0;
 }
+// img {
+//     width: 100%;
+//     height: auto;
+// }
 
 .layout-container {
     margin-left: 3%;
@@ -63,12 +77,20 @@ h1 {
     }
 }
 
+//Menu specific:
 .title {
     @include mobile {
         display: block;
         width: 90%;
         float: left;
     }
+    :hover {
+        color: $text-color-hover;
+    }
+}
+
+.link-active {
+    color: $text-color-hover;
 }
 
 .bars {
@@ -104,6 +126,9 @@ h1 {
         @include mobile {
             padding: 7px 0;
         }
+        :hover {
+            color: $text-color-hover;
+        }
     }
 }
 .dropdown-menu-items {
@@ -119,6 +144,9 @@ h1 {
     display: block;
     padding: 4px 0;
     padding-left: 10px;
+    :hover {
+        color: $text-color-hover;
+    }
     a {
         // color: $text-color-lighter;
         font-size: 76%;
@@ -127,4 +155,28 @@ h1 {
     @include mobile {
         padding: 6px 0;
     }
+}
+
+
+//Main content
+.flex-grid {
+    display: flex;
+}
+.flex-grid .col {
+    flex: 1;
+}
+.flex-grid-thirds {
+    display: flex;
+    justify-content: space-between;
+}
+.flex-grid-thirds .col {
+    width: 32%;
+}
+
+.content {
+    // img {
+    //     width: 50%;
+    //     height: auto;
+    //     opacity: 0.4;
+    // }
 }

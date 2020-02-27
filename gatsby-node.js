@@ -1,18 +1,34 @@
-const path = require(`path`)
+const path = require(`path`);
+const { fmImagesToRelative } = require('gatsby-remark-relative-images');
+const { createFilePath } = require(`gatsby-source-filesystem`);
 
+exports.onCreateNode = ({ node, getNode, actions }) => {
+  const { createNodeField } = actions
+  fmImagesToRelative(node);
+  if (node.internal.type === `MarkdownRemark`) {
+    const slug = createFilePath({ node, getNode });
+    createNodeField({
+      node,
+      name: `slug`,
+      value: slug,
+    })
+  }
+}
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
 
-  const blogPostTemplate = path.resolve(`src/templates/blogTemplate.js`)
-
   const result = await graphql(`
     {
-      allMarkdownRemark {
+      allMarkdownRemark(limit: 1000) {
         edges {
           node {
-            frontmatter {
-              title
+            fields {
+                slug
             }
+            frontmatter {
+              templateKey
+            }
+            id
           }
         }
       }
@@ -25,19 +41,16 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     return
   }
 
-  result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-    const slug = slug(node.frontmatter.title);
+  const data = result.data.allMarkdownRemark.edges;
+
+  data.forEach((edge) => {
+    const id = edge.node.id;
     createPage({
-      path: `/still/${slug}`,
-      component: blogPostTemplate,
-      context: {}, // additional data can be passed via context
+      path: edge.node.fields.slug,
+      component: path.resolve(`src/templates/${edge.node.frontmatter.templateKey}.js`),
+      context: {
+        id,
+      },
     })
   })
-}
-
-function slug(text) {
-    return text
-        .toLowerCase()
-        .replace(/ /g,'-')
-        .replace(/[^\w-]+/g,'');
 }

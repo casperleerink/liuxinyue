@@ -32,7 +32,6 @@ module.exports = {
     // `gatsby-plugin-offline`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sass`,
-    `gatsby-transformer-remark`,
     //netlify CMS
     {
       resolve: `gatsby-plugin-netlify-cms`,
@@ -51,12 +50,34 @@ module.exports = {
       }
     },
     //source filesystem
-    {
-      resolve: `gatsby-source-filesystem`,
+    {            
+      resolve: `gatsby-source-filesystem`,      
       options: {
-        name: `still`,
-        path: `${__dirname}/content/still`,
+        path: `${__dirname}/static/assets`,
+        name: 'images',
       },
     },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'pages',
+        path: `${__dirname}/src/pages`,
+      },
+    },
+    //transform markdown (including relative image paths)
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `gatsby-remark-relative-images`,
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 900,
+            }
+          }
+        ]
+      }
+    }
   ],
 }
