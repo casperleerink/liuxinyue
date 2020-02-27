@@ -1,9 +1,11 @@
 ---
+templateKey: still-page
 title: My first still
 date: 2020-02-11T08:00:00.000Z
-mainImage: /assets/+uJMA1%HScaR2V7dmgxAxA.jpg
-templateKey: still-page
+main_image: /assets/E54D6F8C-C0F7-49F0-B1E3-671BE0FB449F.jpeg
 ---
 **Welcome to this still! It is very still..**
 
-![](/assets/+uJMA1%HScaR2V7dmgxAxA.jpg)
+![Trees and snow](/assets/+uJMA1%HScaR2V7dmgxAxA.jpg "Snow")
+
+![Sloth!](/assets/E54D6F8C-C0F7-49F0-B1E3-671BE0FB449F.jpeg "Sloth!")
