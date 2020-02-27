@@ -159,22 +159,14 @@ h1 {
 
 
 //Main content
-.flex-grid {
-    display: flex;
-}
-.flex-grid .col {
-    flex: 1;
-}
-.flex-grid-thirds {
-    display: flex;
-    justify-content: space-between;
-}
-.flex-grid-thirds .col {
-    width: 32%;
-}
-
 .content {
     img {
-        width: 90%;
+        width: 100%;
+    }
+    .col-12 {
+        width: 100%;
+    }
+    .col-6 {
+        width: 50%;
     }
 }

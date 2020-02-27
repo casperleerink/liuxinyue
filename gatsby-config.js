@@ -69,6 +69,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          `gatsby-remark-embed-video`,
           `gatsby-remark-relative-images`,
           {
             resolve: `gatsby-remark-images`,
@@ -78,6 +79,19 @@ module.exports = {
           }
         ]
       }
-    }
+    },
+    {
+      resolve: "gatsby-remark-custom-blocks",
+      options: {
+        blocks: {
+          full: {
+            classes: "col-12",
+          },
+          half: {
+            classes: "col-6",
+          },
+        },
+      },
+    },
   ],
 }
