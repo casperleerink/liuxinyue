@@ -15,20 +15,16 @@ collections:
     files:
       - label: "Home Page"
         name: "home"
-        file: "src/pages/home.md"
+        file: "src/pages/index.md"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
-          - {label: "Text top", name: "textTop", widget: "string"}
-          - {label: "Image", name: "image", widget: "image"}
-          - {label: "Text bottom", name: "textBottom", widget: "string"}
+          - {label: "body", name: "body", widget: "markdown"}
       - label: "About Page"
         name: "about"
         file: "src/pages/about.md"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Image top", name: "imageTop", widget: "image"}
-          - {label: "Text", name: "text", widget: "text"}
-          - {label: "Image bottom", name: "imageBottom", widget: "image"}
+          - {label: "body", name: "body", widget: "markdown"}
   - name: still
     label: Still
     folder: src/pages/still
