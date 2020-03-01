@@ -7,15 +7,6 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `images`,
-        path: `${__dirname}/src/images`,
-      },
-    },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
-    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `gatsby-starter-default`,
@@ -32,21 +23,13 @@ module.exports = {
     // `gatsby-plugin-offline`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sass`,
-    //netlify CMS
-    {
-      resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      }
-    },
     //google fonts
     {
-      resolve: `gatsby-plugin-google-fonts`,
+      resolve: 'gatsby-plugin-web-font-loader',
       options: {
-        fonts: [
-          `Roboto`,
-        ],
-        display: 'swap'
+        google: {
+          families: ['Sacramento', 'Roboto:300']
+        }
       }
     },
     //source filesystem
@@ -64,34 +47,29 @@ module.exports = {
         path: `${__dirname}/src/pages`,
       },
     },
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     //transform markdown (including relative image paths)
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          `gatsby-remark-embed-video`,
           `gatsby-remark-relative-images`,
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 900,
+              maxWidth: 800,
             }
-          }
+          },
         ]
       }
     },
+    //netlify CMS
     {
-      resolve: "gatsby-remark-custom-blocks",
+      resolve: `gatsby-plugin-netlify-cms`,
       options: {
-        blocks: {
-          full: {
-            classes: "col-12",
-          },
-          half: {
-            classes: "col-6",
-          },
-        },
-      },
+        modulePath: `${__dirname}/src/cms/cms.js`,
+      }
     },
   ],
 }

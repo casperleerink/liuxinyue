@@ -12,6 +12,7 @@ const IndexTemplate = ({content, contentComponent}) => {
   )
 }
 
+
 const IndexPage = ({data}) => {
   
   
