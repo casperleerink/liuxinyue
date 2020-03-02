@@ -1,6 +1,6 @@
 import React from "react"
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCaretDown, faCaretRight } from '@fortawesome/free-solid-svg-icons'
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { faCaretDown, faCaretRight } from '@fortawesome/free-solid-svg-icons'
 
 class Dropdown extends React.Component {
     constructor(props) {
@@ -24,9 +24,9 @@ class Dropdown extends React.Component {
             <div>
                 <div className="menu-item">
                     <button onClick={this.handleToggle} style={{cursor: "pointer", display: "inline"}} >
-                        <FontAwesomeIcon icon= { isExpanded ? faCaretDown : faCaretRight } size="xs"/>
-                        {` `}
-                        {this.props.buttonContent}
+                        {/* <FontAwesomeIcon icon= { isExpanded ? faCaretDown : faCaretRight } size="xs"/> */}
+                        {/* {` `} */}
+                        <b>{this.props.buttonContent}</b>
                     </button>
                 </div>
                 <div className={`dropdown-menu-items ${isExpanded ? "expanded" : ""}`}>

@@ -4,13 +4,28 @@ $text-color-lighter: #616161;
 $text-color-hover: #E9BAB3;
 $background-color: #f2f7f2;
 $standard-padding-top: 15px;
+$sidebar-width: 150px;
+$sidebar-width-tablet: 125px;
 
 
 @mixin mobile {
-    @media (max-width: 599px) { @content; }
+    @media (max-width: 700px) { @content; }
 }
 @mixin tablet {
-    @media (max-width: 899px) { @content; }
+    @media (max-width: 950px) { @content; }
+}
+
+@mixin works-padding {
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+@mixin works-padding-low {
+    padding-top: 14%;
+    padding-bottom: 0%;
+}
+@mixin works-padding-high {
+    padding-top: 0%;
+    padding-bottom: 14%;
 }
 
 * {
@@ -39,17 +54,24 @@ button {
     background-color: inherit;
 }
 
-h1 {
-    font-size: 2.5rem;
-    margin: 10px 0;
+hr {
+    color: $text-color;
 }
 
+// h1 {
+//     font-size: 2.5rem;
+//     margin: 10px 0;
+// }
+
 .layout-container {
-    margin-left: 3%;
-    margin-right: 3%;
-    margin-top: 40px;
-    width: 94%;
-    float: left;
+    display: block;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 30px;
+    margin-right: $sidebar-width;
+    @include tablet {
+        margin-right: $sidebar-width-tablet;
+    }
     @include mobile {
         margin-left: 5%;
         margin-right: 5%;
@@ -60,17 +82,53 @@ h1 {
 
 .header {
     display: block;
-    width: 15%;
+    width: $sidebar-width;
     float: right;
+    margin-right: -$sidebar-width;
+    @include tablet {
+        width: $sidebar-width-tablet;
+        margin-right: -$sidebar-width-tablet;
+    }
     @include mobile {
         width: 100%;
         float: left;
     }
+    .title {
+        font-family: 'Lato';
+        // font-size: 56px;
+        // margin: 0;
+        h1 {
+            margin: 10px 0;
+            // font-size: 2.5rem;
+        }
+        @include mobile {
+            display: block;
+            width: 90%;
+            float: left;
+        }
+        :hover {
+            color: $text-color-hover;
+        }
+    }
+    .bars {
+        display: none;
+        @include mobile {
+            //only show bars on mobile view
+            display: block;
+            font-size: 2.5rem;
+            font-weight: lighter;
+            width: 10%;
+            float: left;
+            margin: 10px 0;
+            color: $text-color;
+            cursor: pointer;
+        }
+    }
 }
 .main-content {
     display: block;
-    width: 85%;
-    float: right;
+    width: 100%;
+    float: left;
     @include mobile {
         width: 100%;
         float: left;
@@ -78,34 +136,12 @@ h1 {
 }
 
 //Menu specific:
-.title {
-    font-family: 'Sacramento', 'Roboto';
-    @include mobile {
-        display: block;
-        width: 90%;
-        float: left;
-    }
-    :hover {
-        color: $text-color-hover;
-    }
-}
+
 
 .link-active {
     color: $text-color-hover;
 }
 
-.bars {
-    display: none;
-    @include mobile {
-        //only show bars on mobile view
-        display: block;
-        width: 10%;
-        float: left;
-        margin: 10px 0;
-        color: $text-color;
-        cursor: pointer;
-    }
-}
 .menu-items {
     display: block;
     @include mobile {
@@ -117,7 +153,7 @@ h1 {
         transition: max-height 500ms ease-out;
         overflow: hidden;
         &.expanded {
-            max-height: 800px;
+            max-height: 1000px;
         }
     }
     .menu-item {
@@ -137,7 +173,7 @@ h1 {
     transition: max-height 300ms ease-out;
     overflow: hidden;
     &.expanded {
-        max-height: 300px;
+        max-height: 500px;
     }
 }
 
@@ -161,7 +197,10 @@ h1 {
 
 //Main content
 .content {
-    padding: 40px 7%;
+    // padding: 40px 11%;
+    padding-right: 13%;
+    padding-left: 10%;
+    padding-top: 40px;
     @include mobile {
         padding: 0px 0%;
     }
@@ -203,9 +242,6 @@ h1 {
             padding-right: 5%;
         }
     }
-    .extra-padding {
-        padding-top: $standard-padding-top;
-    }
     .video-container {
         margin-top: $standard-padding-top;
         margin-bottom: $standard-padding-top;
@@ -227,11 +263,14 @@ h1 {
 //works
 .works-container {
     display: block;
+    padding-right: 13%;
+    padding-left: 10%;
+    padding-top: 40px;
     // flex-flow: row wrap;
     // justify-content: center;
     // padding: 40px 7%;
     @include mobile {
-        // padding: 0px 0%;
+        padding: 0px 0%;
     }
 
     .works-item {
@@ -246,19 +285,7 @@ h1 {
             padding: 15%;
             width: 100%;
         }
-        h5 {
-            display: block;
-            text-align: center;
-            margin: 0;
-            opacity: 0.0;
-            @include mobile {
-                opacity: 1.0;
-            }
-        }
         a {
-            .gatsby-image-wrapper {
-                box-shadow: 4px 4px 8px 0px grey;
-            }
             h5 {
                 display: block;
                 text-align: center;
@@ -279,6 +306,44 @@ h1 {
             }
         }
         
+    }
+
+    //create random looking padding for works
+    .works-item:nth-child(10n+1) {
+        @include works-padding-high;
+        @include mobile {
+            @include works-padding;
+        }
+    }
+    .works-item:nth-child(10n+2) {
+        @include works-padding-low;
+        @include mobile {
+            @include works-padding;
+        }
+    }
+    .works-item:nth-child(10n+4) {
+        @include works-padding-low;
+        @include mobile {
+            @include works-padding;
+        }
+    }
+    .works-item:nth-child(10n+6) {
+        @include works-padding-high;
+        @include mobile {
+            @include works-padding;
+        }
+    }
+    .works-item:nth-child(10n+7) {
+        @include works-padding-high;
+        @include mobile {
+            @include works-padding;
+        }
+    }
+    .works-item:nth-child(10n+9) {
+        @include works-padding-low;
+        @include mobile {
+            @include works-padding;
+        }
     }
     
 }

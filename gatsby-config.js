@@ -15,7 +15,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/xinyue_liu_logo.png`, // This path is relative to the root of the site.
+        icon: `src/images/xinyue_logo.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
@@ -28,7 +28,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Sacramento', 'Roboto:300']
+          families: ['Lato:100', 'Roboto:300']
         }
       }
     },

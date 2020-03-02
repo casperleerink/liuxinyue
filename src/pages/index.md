@@ -1,14 +1,6 @@
 ---
 templateKey: index-page
 ---
-Welcome to the home page! It is very still..
---------------------------------------
-----
-
-<p style="padding-top: 300px;"></p>
-
-
-
 <div class="video-container"><iframe src="https://www.youtube.com/embed/3twVC5jSzgU" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <img src="/assets/E54D6F8C-C0F7-49F0-B1E3-671BE0FB449F.jpeg" alt="" title="" class="half half-left"></img>

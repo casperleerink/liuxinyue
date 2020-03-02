@@ -1,8 +1,8 @@
 import React, { useState } from "react"
-// import styled from "styled-components"
 import { Link, useStaticQuery, graphql } from "gatsby"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from '@fortawesome/free-solid-svg-icons'
+// import Bars from '../images/menu.svg';
 
 import Dropdown from "./dropdown"
 
@@ -56,20 +56,26 @@ const Menu = () => {
       </Link>
     </div>
   );
+
   return (
     <header className="header">
       <div className="title">
         <h1><Link to="/">Xinyue Liu</Link></h1>
       </div>
-      <FontAwesomeIcon icon= {faBars} size= '2x' onClick={handleToggle} className="bars"/>
+      <FontAwesomeIcon icon= {faBars} onClick={handleToggle} className="bars"/>
+      {/* <Bars onClick={handleToggle} className="bars"/> */}
       <div className={`menu-items ${menuExpanded ? "expanded": ""}`} >
+        <hr size="1"/>
         <Dropdown buttonContent="Move">
           {moveDropdownItems}
         </Dropdown>
+        <hr size="1"/>
         <Dropdown buttonContent="Still">
           {stillDropdownItems}
         </Dropdown>
+        <hr size="1"/>
         <div className="menu-item"><Link to="/about" activeClassName="link-active">Look at me</Link></div>
+        <hr size="1"/>
         <div className="menu-item"><Link to="/works" activeClassName="link-active">Works</Link></div>
       </div>
       
