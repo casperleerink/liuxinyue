@@ -1,7 +1,7 @@
 import CMS from 'netlify-cms-app';
 
 
-// import cloudinary from 'netlify-cms-media-library-cloudinary';
+
 import Preview from './preview-templates/preview'
 
 import styles from '!css-loader!sass-loader!../layout.scss'
@@ -24,7 +24,7 @@ const youtube = {
     // Fields the user need to fill out when adding an instance of the component
     fields: [{name: 'id', label: 'Youtube Video ID', widget: 'string'}],
     // Pattern to identify a block as being an instance of this component
-    pattern: /<div class="video-container">.*youtube.com\/embed\/([^"]*).*<\/div>/,
+    pattern: /^<div class="video-container">.*youtube.com\/embed\/([^"]*).*<\/div>$/,
     // Function to extract data elements from the regexp match
     fromBlock: function(match) {
       return {
@@ -46,13 +46,19 @@ const youtube = {
     },
 }
 
+// function youtube_parser(url){
+//   var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#\&\?]*).*/;
+//   var match = url.match(regExp);
+//   return (match&&match[7].length==11) ? match[7] : '';
+// }
+
 const imageWithClass = {
     label: 'Image with styling',
     id: 'imageStyling',
     // pattern: /^!\[(.*)\]\((.*?)(\s"(.*)")?\)$/,
-    pattern: /<img\ssrc="([^"]*)"\salt="([^"]*)"\stitle="([^"]*)"\sclass="([^"]*)"><\/img>/,
+    pattern: /^<img\ssrc="([^"]*)"\salt="([^"]*)"\stitle="([^"]*)"\sclass="([^"]*)"><\/img>$/,
     fromBlock: match => {
-        console.log(match);
+        // console.log(match);
         const classes = match[4] ? match[4].split(" ") : [];
         return match && {
             image: match[1],
@@ -105,27 +111,35 @@ const whitespace = {
     // Visible label
     label: "Whitespace",
     // Fields the user need to fill out when adding an instance of the component
-    fields: [{name: 'amount', label: 'Whitespace Amount', widget: 'number', valueType: 'int', default: 15}],
+    fields: [{
+      name: 'className', 
+      label: 'Whitespace Amount', 
+      widget: 'select', 
+      options: ['lines-1', 'lines-2', 'lines-3', 'lines-4', 'lines-5', 'lines-6'],
+      default: 'lines-1',
+    }],
     // Pattern to identify a block as being an instance of this component
-    pattern: /<p style="padding-top: ([0-9]+)px;"><\/p>/,
+    pattern: /^<div\sclass="([^"]*)"><\/div>$/,
     // Function to extract data elements from the regexp match
     fromBlock: function(match) {
-        const num = parseInt(match[1]);
+      console.log(match[1]);
         return {
-            amount: num,
+            className: match[1],
         };
     },
     // Function to create a text block from an instance of this component
     toBlock: function(obj) {
+      console.log(obj.className);
       return (
-        `<p style="padding-top: ${obj.amount}px;"></p>`
+        `<div class="${obj.className ? obj.className : ''}"></div>`
       )
     },
     // Preview output for this component. Can either be a string or a React component
     // (component gives better render performance)
     toPreview: function(obj) {
+      console.log(obj.className);
         return (
-            `<p style="padding-top: ${obj.amount}px;"></p>`
+          `<div class="${obj.className ? obj.className : ''}"></div>`
           )
     },
 }

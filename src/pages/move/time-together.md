@@ -4,9 +4,9 @@ title: 'Time, together'
 date: 2020-03-03T08:00:00.000Z
 mainImage: /assets/20190410170545912-2.jpg
 ---
-<div class="video-container"><iframe src="https://www.youtube.com/embed/https://youtu.be/laP1drVxdws" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/laP1drVxdws" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<p style="padding-top: 15px;"></p>
+<div class="lines-2"></div>
 
 *Time, together* is part of *seams*, a first-year Master of Fine Arts students Spring Show in the School for the Contemporary Arts, Simon Fraser University.
 

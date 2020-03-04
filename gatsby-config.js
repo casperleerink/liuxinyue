@@ -25,12 +25,19 @@ module.exports = {
     `gatsby-plugin-sass`,
     //google fonts
     {
-      resolve: 'gatsby-plugin-web-font-loader',
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
       options: {
-        google: {
-          families: ['Lato:100', 'Roboto:300']
-        }
-      }
+        fonts: [
+          {
+            family: `Roboto`,
+            variants: [`300`],
+          },
+          {
+            family: `Lato`,
+            variants: [`100`],
+          },
+        ],
+      },
     },
     //source filesystem
     {            
