@@ -16,8 +16,6 @@ mainImage: /assets/20190410170545912-2.jpg
 
 <div class="lines-5"></div>
 
-
-
 <div class="lines-5"></div>
 
 ![](/assets/20190410170545912-2.jpg)
@@ -43,3 +41,5 @@ mainImage: /assets/20190410170545912-2.jpg
 <div class="lines-6"></div>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/laP1drVxdws" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="lines-3"></div>
