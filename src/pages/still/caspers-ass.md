@@ -1,17 +1,25 @@
 ---
 templateKey: still-page
-title: casper's ass
-date: 2020-03-01T08:00:00.000Z
-mainImage: /assets/snow man.jpg
+title: Haiku project
+date: 2020-04-08T07:00:00.000Z
+mainImage: /assets/spine.jpg
 ---
-i love it
 
-tha'ts true
 
-you are right
+![](/assets/DSCF8812 copy.jpg)
 
-<p style="padding-top: 15px;"></p>
+<div class="lines-3"></div>
 
-you
+![](/assets/seek and hide.jpg)
 
-<img src="/assets/snow man.jpg" alt="" title="" class="middle"></img>
+<div class="lines-3"></div>
+
+![](/assets/spine.jpg)
+
+<div class="lines-3"></div>
+
+![](/assets/DSCF8801.jpg)
+
+<div class="lines-3"></div>
+
+![](/assets/topsoil.jpg)
