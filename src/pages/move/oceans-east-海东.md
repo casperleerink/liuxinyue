@@ -10,4 +10,4 @@ mainImage: /assets/_-1.png
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/TH64IHj-zSQ" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<div class="lines-4"></div>
+<div class="lines-3"></div>
