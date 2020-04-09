@@ -2,7 +2,7 @@
 templateKey: still-page
 title: She's Many Flowers
 date: 2017-10-01T07:00:00.000Z
-mainImage: /assets/spine.jpg
+mainImage: /assets/2.jpg
 ---
 ![](/assets/why.jpg)
 
