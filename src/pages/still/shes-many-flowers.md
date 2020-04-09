@@ -1,6 +1,6 @@
 ---
 templateKey: still-page
-title: She's Many Flowers
+title: She is Many Flowers
 date: 2017-10-01T07:00:00.000Z
 mainImage: /assets/2.jpg
 ---
