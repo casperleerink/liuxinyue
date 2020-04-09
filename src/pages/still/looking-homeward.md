@@ -24,4 +24,6 @@ mainImage: /assets/0004_27A.jpg
 
 <div class="lines-3"></div>
 
-![](/assets/0005_16.jpg)
+![](/assets/0004_17.jpg)
+
+<div class="lines-3"></div>
