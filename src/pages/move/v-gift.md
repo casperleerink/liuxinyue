@@ -4,7 +4,7 @@ title: V GIFT
 date: 2019-04-01T07:00:00.000Z
 mainImage: /assets/WechatIMG426 (1).jpeg
 ---
-![](/assets/WechatIMG426 (1).jpeg)
+![](/assets/WechatIM.jpeg)
 
 <div class="lines-2"></div>
 
