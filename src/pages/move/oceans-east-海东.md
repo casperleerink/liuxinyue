@@ -4,7 +4,7 @@ title: Ocean's East - 海东
 date: 2020-04-02T07:00:00.000Z
 mainImage: /assets/_-1.png
 ---
-![](/assets/IMG_4926 (1).jpg)
+![](/assets/IMG_49.jpg)
 
 ![](/assets/_-1.png)
 
