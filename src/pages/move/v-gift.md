@@ -2,7 +2,7 @@
 templateKey: move-page
 title: V GIFT
 date: 2019-04-01T07:00:00.000Z
-mainImage: /assets/WechatIMG426 (1).jpeg
+mainImage: /assets/WechatIMG463.jpg
 ---
 ![](/assets/WechatIM.jpeg)
 
