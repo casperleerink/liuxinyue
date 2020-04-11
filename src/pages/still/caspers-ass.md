@@ -4,7 +4,9 @@ title: Haiku project
 date: 2020-04-08T07:00:00.000Z
 mainImage: /assets/spine.jpg
 ---
-![](/assets/DSCF8812 copy.jpg)
+
+
+<img src="/assets/DSCF8812 copy.jpg" alt="" title="" class="middle"></img>
 
 <div class="lines-3"></div>
 
@@ -12,14 +14,22 @@ mainImage: /assets/spine.jpg
 
 <div class="lines-3"></div>
 
-![](/assets/spine.jpg)
+
+
+<img src="/assets/spine.jpg" alt="" title="" class="half half-left"></img>
 
 <div class="lines-3"></div>
 
-![](/assets/DSCF8801.jpg)
+
+
+<img src="/assets/DSCF8801.jpg" alt="" title="" class="middle"></img>
 
 <div class="lines-3"></div>
 
-![](/assets/topsoil.jpg)
+<img src="/assets/empty.png" alt="" title="" class="half half-left"></img>
+
+
+
+<img src="/assets/topsoil.jpg" alt="" title="" class="half-right half"></img>
 
 <div class="lines-4"></div>
