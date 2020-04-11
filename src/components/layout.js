@@ -4,7 +4,6 @@ import PropTypes from "prop-types"
 // import {useStaticQuery, graphql} from "gatsby"
 
 import Menu from "./menu"
-import "../layout.scss";
 
 
 const Layout = ({children}) => {

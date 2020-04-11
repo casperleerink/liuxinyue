@@ -65,18 +65,14 @@ const Menu = () => {
       <FontAwesomeIcon icon= {faBars} onClick={handleToggle} className="bars"/>
       {/* <Bars onClick={handleToggle} className="bars"/> */}
       <div className={`menu-items ${menuExpanded ? "expanded": ""}`} >
-        <hr size="1"/>
         <Dropdown buttonContent="Move">
           {moveDropdownItems}
         </Dropdown>
-        <hr size="1"/>
         <Dropdown buttonContent="Still">
           {stillDropdownItems}
         </Dropdown>
-        <hr size="1"/>
         <div className="menu-item"><Link to="/about" activeClassName="link-active">Look at me</Link></div>
-        <hr size="1"/>
-        <div className="menu-item"><Link to="/works" activeClassName="link-active">Works</Link></div>
+        <div className="menu-item"><Link to="/works" activeClassName="link-active">Synopsis</Link></div>
       </div>
       
     </header>

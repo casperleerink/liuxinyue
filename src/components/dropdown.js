@@ -26,7 +26,7 @@ class Dropdown extends React.Component {
                     <button onClick={this.handleToggle} style={{cursor: "pointer", display: "inline"}} >
                         {/* <FontAwesomeIcon icon= { isExpanded ? faCaretDown : faCaretRight } size="xs"/> */}
                         {/* {` `} */}
-                        <b>{this.props.buttonContent}</b>
+                        {this.props.buttonContent}
                     </button>
                 </div>
                 <div className={`dropdown-menu-items ${isExpanded ? "expanded" : ""}`}>

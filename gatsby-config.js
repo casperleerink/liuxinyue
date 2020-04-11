@@ -18,27 +18,24 @@ module.exports = {
         icon: `src/images/xinyue_logo.png`, // This path is relative to the root of the site.
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sass`,
-    //google fonts
-    {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
-      options: {
-        fonts: [
-          {
-            family: `Roboto`,
-            variants: [`300`],
-          },
-          {
-            family: `Lato`,
-            variants: [`100`],
-          },
-        ],
-      },
-    },
+    // //google fonts
+    // {
+    //   resolve: `gatsby-plugin-prefetch-google-fonts`,
+    //   options: {
+    //     fonts: [
+    //       {
+    //         family: `Roboto`,
+    //         variants: [`300`, `200`, `100`],
+    //       },
+    //       {
+    //         family: `Lato`,
+    //         variants: [`100`],
+    //       },
+    //     ],
+    //   },
+    // },
     //source filesystem
     {            
       resolve: `gatsby-source-filesystem`,      

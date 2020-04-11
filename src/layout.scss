@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100');
+
 $font-stack: 'Roboto', sans-serif;
 $text-color: #7f2417;
 $text-color-lighter: #616161;
 $text-color-hover: #E9BAB3;
 $background-color: #f2f7f2;
 $standard-padding-top: 15px;
-$sidebar-width: 150px;
+$sidebar-width: 180px;
 $sidebar-width-tablet: 125px;
 
 
@@ -35,7 +37,7 @@ $sidebar-width-tablet: 125px;
 body { 
     background: $background-color;
     color: $text-color;
-    font: 100% $font-stack;
+    font: 90% $font-stack;
 }
 a {
     text-decoration: none;
@@ -90,10 +92,11 @@ hr {
         float: left;
     }
     .title {
-        font-family: 'Lato', 'Roboto';
+        // font-family: 'Lato', 'Roboto';
         font-weight: 100;
         h1 {
             margin: 10px 0;
+            font-weight: 100;
         }
         @include mobile {
             display: block;
@@ -153,7 +156,7 @@ hr {
     .menu-item {
         display: block;
         padding: 5px 0;
-        font-size: 85%;
+        font-size: 0.7rem;
         @include mobile {
             padding: 7px 0;
         }
@@ -191,7 +194,8 @@ hr {
 
 //Main content
 .content {
-    // padding: 40px 11%;
+    font-size: 70%;
+    line-height: 1.1rem;
     padding-right: 13%;
     padding-left: 10%;
     padding-top: 40px;

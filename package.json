@@ -1,9 +1,9 @@
 {
   "name": "gatsby-starter-default",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Website of Xinyue Liu",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Casper Leerink",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
     "@fortawesome/free-solid-svg-icons": "^5.12.1",
@@ -11,16 +11,13 @@
     "babel-plugin-styled-components": "^1.10.7",
     "gatsby": "^2.19.7",
     "gatsby-image": "^2.2.39",
-    "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-manifest": "^2.2.39",
     "gatsby-plugin-netlify-cms": "^4.1.40",
     "gatsby-plugin-offline": "^3.0.32",
-    "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
     "gatsby-plugin-react-helmet": "^3.1.21",
     "gatsby-plugin-sass": "^2.1.28",
     "gatsby-plugin-sharp": "^2.4.3",
     "gatsby-plugin-styled-components": "^3.1.19",
-    "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-remark-custom-blocks": "^2.1.25",
     "gatsby-remark-embed-video": "^2.0.1",
     "gatsby-remark-images": "^3.1.44",
@@ -57,7 +54,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/casperleerink/liuxinyue"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
