@@ -2,7 +2,7 @@
 templateKey: move-page
 title: 'Time, together'
 date: 2020-03-03T08:00:00.000Z
-mainImage: /assets/window_2.gif
+mainImage: /assets/20190410170545912-2.jpg
 ---
 <div class="lines-3"></div>
 
