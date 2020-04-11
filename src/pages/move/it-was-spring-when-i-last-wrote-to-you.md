@@ -16,7 +16,7 @@ mainImage: /assets/L1210863_JPG.jpg
 
 <div class="lines-2"></div>
 
-![](/assets/L1210861 (1).jpg)
+![](/assets/L12108.jpg)
 
 <div class="lines-2"></div>
 
