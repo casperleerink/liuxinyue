@@ -1,7 +1,7 @@
 ---
 templateKey: still-page
 title: She is Many Flowers
-date: 2017-10-01T07:00:00.000Z
+date: "2017-10-01T07:00:00.000Z"
 mainImage: /assets/2.jpg
 ---
 ![](/assets/why.jpg)
@@ -44,6 +44,6 @@ mainImage: /assets/2.jpg
 
 <div class="lines-3"></div>
 
-![](/assets/16 (1).jpg)
+![](/assets/162.jpg)
 
 <div class="lines-3"></div>
