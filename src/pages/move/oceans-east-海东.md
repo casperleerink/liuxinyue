@@ -1,8 +1,8 @@
 ---
 templateKey: move-page
 title: Ocean's East - 海东
-date: 2020-04-02T07:00:00.000Z
-mainImage: /assets/_-1.png
+date: "2020-04-02T07:00:00.000Z"
+mainImage: /assets/IMG_49.jpg
 ---
 ![](/assets/IMG_49.jpg)
 
