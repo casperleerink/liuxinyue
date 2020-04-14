@@ -29,7 +29,3 @@ We celebrated your departure.
 Hurrying to where?
 
 <div class="lines-4"></div>
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/cMrQ7V1rovU" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="lines-4"></div>
