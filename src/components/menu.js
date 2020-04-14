@@ -63,7 +63,6 @@ const Menu = () => {
         <h1><Link to="/">Xinyue Liu</Link></h1>
       </div>
       <FontAwesomeIcon icon= {faBars} onClick={handleToggle} className="bars"/>
-      {/* <Bars onClick={handleToggle} className="bars"/> */}
       <div className={`menu-items ${menuExpanded ? "expanded": ""}`} >
         <Dropdown buttonContent="Move">
           {moveDropdownItems}
