@@ -74,3 +74,5 @@ Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchu
 2018 | Research Assistant, Simon Fraser University
 
 2017 | Assistant Editor in Digital Marketing, Southern Weekly
+
+<div class="lines-5"></div>
