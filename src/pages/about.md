@@ -15,6 +15,8 @@ Simon Fraser University. M.F.A., Interdisciplinary Studies, Vancouver, Canada, 2
 
 Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchun, China, 2014-2018
 
+<div class="lines-1"></div>
+
 **Exhibition History** 
 
 2020 | Short Film | *Travel Sizes*, Project C, Cineworks VUCAVU, Vancouver, British Columbia
@@ -35,6 +37,8 @@ Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchu
 
 2018 | Documentary | *Sound of the water*, Vancouver Chinese Film Festival, Vancouver, British Columbia
 
+<div class="lines-1"></div>
+
 **Grants and Awards** 
 
 2020 Shortlisted and Honourable Mention, Project C, Cineworks VUCAVU
@@ -52,6 +56,8 @@ Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchu
 2018 Special Graduate Entrance Scholarship, Simon Fraser University
 
 2017 Special Award, Looking China Youth Film Project, Academy for International Communication of Chinese Culture
+
+<div class="lines-1"></div>
 
 **Employment History** 
 
