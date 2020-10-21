@@ -11,8 +11,9 @@ Liu received a Bachelor of Fine Arts in Television and Radio Production from Jil
 
 **Education** 
 
-Simon Fraser University. M.F.A., Interdisciplinary Studies, Vancouver, 2018-now
-Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchun, 2014-2018
+Simon Fraser University. M.F.A., Interdisciplinary Studies, Vancouver, Canada, 2018-now
+
+Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchun, China, 2014-2018
 
 **Exhibition History** 
 
