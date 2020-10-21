@@ -61,9 +61,9 @@ Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchu
 
 **Employment History** 
 
-2020 | Photographer Assistant, Kent Kallberg Studios
-
 2020 | Teaching Assistant, Simon Fraser University
+
+2020 | Photographer Assistant, Kent Kallberg Studios
 
 2020 | Intern, Audain Gallery 
 
