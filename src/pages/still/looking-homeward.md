@@ -1,8 +1,8 @@
 ---
 templateKey: still-page
 title: Look Homeward
-date: 2020-04-08T07:00:00.000Z
-mainImage: /assets/0004_27A.jpg
+date: "2020-04-08T07:00:00.000Z"
+mainImage: /assets/0014_20.jpg
 ---
 ![](/assets/0014_20.jpg)
 
