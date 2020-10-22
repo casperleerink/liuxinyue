@@ -2,7 +2,7 @@
 templateKey: still-page
 title: Xylophone
 date: "2020-10-21T07:00:00.000Z"
-mainImage: /assets/photo-11-.jpeg
+mainImage: /assets/photo-31-.jpeg
 ---
 <div class="lines-3"></div>
 
