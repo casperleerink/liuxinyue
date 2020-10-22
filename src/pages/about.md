@@ -33,7 +33,7 @@ Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchu
 
 2019 | Installation | *Time, togethe*r, Audain Gallery, Vancouver, British Columbia
 
-2018 | Interdisciplinary Performance | *This morning, I woke up*, Alexander Studios, Vancouver, British Columbia
+2018 | Interdisciplinary Performance | *I Looked into the Mirror and Saw*, Alexander Studios, Vancouver, British Columbia
 
 2018 | Documentary | *Sound of the water*, Vancouver Chinese Film Festival, Vancouver, British Columbia
 
