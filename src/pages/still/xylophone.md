@@ -12,12 +12,8 @@ mainImage: /assets/photo-31-.jpeg
 
 ![](/assets/photo-31-.jpeg)
 
-
-
 ![](/assets/photo-30-.jpeg)
 
-![](/assets/photo-23-.jpeg)
-
-
+![](/assets/photo-28-.jpeg)
 
 <div class="lines-1"></div>
