@@ -9,7 +9,7 @@ Liu received a Bachelor of Fine Arts in Television and Radio Production from Jil
 
 ![](/assets/end banner.png)
 
-**Education** 
+**Education I received**
 
 Simon Fraser University. M.F.A., Interdisciplinary Studies, Vancouver, Canada, 2018-now
 
@@ -17,7 +17,7 @@ Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchu
 
 <div class="lines-1"></div>
 
-**Exhibition History** 
+**Exhibitions I was part of** 
 
 2020 | Short Film | *Travel Sizes*, Project C, Cineworks VUCAVU, Vancouver, British Columbia
 
@@ -39,7 +39,7 @@ Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchu
 
 <div class="lines-1"></div>
 
-**Grants and Awards** 
+**Grants and Awards that were given to me**
 
 2020 Shortlisted and Honourable Mention, Project C, Cineworks VUCAVU
 
@@ -59,7 +59,7 @@ Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchu
 
 <div class="lines-1"></div>
 
-**Employment History** 
+**Works that supported me**
 
 2020 | Teaching Assistant, Simon Fraser University
 
