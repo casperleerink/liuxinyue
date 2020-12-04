@@ -19,11 +19,11 @@ Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchu
 
 **Exhibitions**
 
+2020 | Multimedia Installation | *Perennial*, In Place of Sight, Audain Gallery, Vancouver, British Columbia
+
 2020 | Short Film | *Travel Sizes*, Project C, Cineworks VUCAVU, Vancouver, British Columbia
 
 2020 | Movement Performance | *The Hug*, Dance Cafe, Vancouver, British Columbia
-
-2020 | Photography | *Collaboration with Hannah Campbell,* Capilano Review, Vancouver, British Columbia
 
 2020 | Improv Opera | *Coral Calls for Cloud*, Collaboration with SFU Ensemble-in-Residence, Vancouver, British Columbia
 
