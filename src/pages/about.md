@@ -23,7 +23,7 @@ Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchu
 
 2020 | Short Film | *Travel Sizes*, Project C, Cineworks VUCAVU, Vancouver, British Columbia
 
-2020 | Movement Performance | *The Hug*, Dance Cafe, Vancouver, British Columbia
+2020 | Movement Performance | *One More*, Dance Cafe, Vancouver, British Columbia
 
 2020 | Improv Opera | *Coral Calls for Cloud*, Collaboration with SFU Ensemble-in-Residence, Vancouver, British Columbia
 
