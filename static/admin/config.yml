@@ -1,47 +1,76 @@
 backend:
   name: git-gateway
   repo: casperleerink/liuxinyue
-# media_library:
-#   name: cloudinary
-#   config:
-#     cloud_name: casperleerink
-#     api_key: 173738255589443
 media_folder: static/assets
 public_folder: /assets
 logo_url: "https://cdn.dribbble.com/users/610636/screenshots/6454161/sloth_2-01.png"
 collections:
-  - label: "Pages" 
+  - label: "Pages"
     name: "pages"
     files:
       - label: "Home Page"
         name: "home"
         file: "src/pages/index.md"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
-          - {label: "body", name: "body", widget: "markdown"}
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "index-page",
+            }
+          - { label: "body", name: "body", widget: "markdown" }
       - label: "About Page"
         name: "about"
         file: "src/pages/about.md"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "body", name: "body", widget: "markdown"}
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "about-page",
+            }
+          - { label: "body", name: "body", widget: "markdown" }
   - name: still
     label: Still
     folder: src/pages/still
     create: true
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "still-page"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime", default: "", dateFormat: "DD.MM.YYYY", timeFormat: false}
-      - {label: "Main Image", name: "mainImage", widget: "image"}
-      - {label: "body", name: "body", widget: "markdown"}
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "still-page",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          default: "",
+          dateFormat: "DD.MM.YYYY",
+          timeFormat: false,
+        }
+      - { label: "Main Image", name: "mainImage", widget: "image" }
+      - { label: "body", name: "body", widget: "markdown" }
   - name: move
     label: Move
     folder: src/pages/move
     create: true
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "move-page"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime", default: "", dateFormat: "DD.MM.YYYY", timeFormat: false}
-      - {label: "Main Image", name: "mainImage", widget: "image"}
-      - {label: "body", name: "body", widget: "markdown"}
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "move-page",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          default: "",
+          dateFormat: "DD.MM.YYYY",
+          timeFormat: false,
+        }
+      - { label: "Main Image", name: "mainImage", widget: "image" }
+      - { label: "body", name: "body", widget: "markdown" }

@@ -37,17 +37,17 @@ module.exports = {
     //   },
     // },
     //source filesystem
-    {            
-      resolve: `gatsby-source-filesystem`,      
+    {
+      resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/static/assets`,
-        name: 'images',
+        name: "images",
       },
     },
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "gatsby-source-filesystem",
       options: {
-        name: 'pages',
+        name: "pages",
         path: `${__dirname}/src/pages`,
       },
     },
@@ -58,22 +58,37 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          {
+            resolve: `@raae/gatsby-remark-oembed`,
+            options: {
+              usePrefix: true,
+              providers: {
+                exclude: ["Reddit", "Twitter", "Flickr", "Instagram"],
+                include: ["Vimeo"],
+                settings: {
+                  Vimeo: {
+                    responsive: true,
+                  },
+                },
+              },
+            },
+          },
           `gatsby-remark-relative-images`,
           {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 800,
-            }
+            },
           },
-        ]
-      }
+        ],
+      },
     },
     //netlify CMS
     {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
-      }
+      },
     },
   ],
 }
