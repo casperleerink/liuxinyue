@@ -20,12 +20,10 @@ Videographer: Xinyue Liu
 
 Editor: Xinyue Liu
 
-
-
 ![](/assets/IMG_49.jpg)
 
 ![](/assets/_-1.png)
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/TH64IHj-zSQ" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+`oembed: https://vimeo.com/331479359`
 
 <div class="lines-3"></div>
