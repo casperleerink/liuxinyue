@@ -1,6 +1,6 @@
 ---
 templateKey: move-page
-title: perennial prototype
+title: perennial
 date: "2020-04-14T07:00:00.000Z"
 mainImage: /assets/two-people-on-plane.png
 ---
