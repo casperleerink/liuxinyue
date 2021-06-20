@@ -4,7 +4,11 @@ title: perennial prototype
 date: "2020-04-14T07:00:00.000Z"
 mainImage: /assets/two-people-on-plane.png
 ---
+
+
 <div class="lines-3"></div>
+
+`oembed: https://vimeo.com/487019177`
 
 Transmigratory birds
 
@@ -29,7 +33,3 @@ We celebrated your departure.
 Hurrying to where?
 
 <div class="lines-4"></div>
-
-
-
-`oembed: https://vimeo.com/487019177`
