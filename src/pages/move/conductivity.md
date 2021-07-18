@@ -36,7 +36,7 @@ Editor: Xinyue Liu
 
 <img src="/assets/DSCF6555.jpg" alt="" title="" class=""></img>
 
-<div class="lines-2"></div>
+<div class="lines-4"></div>
 
 `oembed: https://vimeo.com/569491494`
 
