@@ -2,7 +2,7 @@
 templateKey: move-page
 title: Travel Sizes
 date: "2020-02-14T08:00:00.000Z"
-mainImage: /assets/liu_travel-sizes_stills_4.jpg
+mainImage: /assets/liu_travel-sizes_stills_2.jpg
 ---
 <div class="lines-3"></div>
 
