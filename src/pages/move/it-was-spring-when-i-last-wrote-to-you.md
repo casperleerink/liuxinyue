@@ -6,8 +6,6 @@ mainImage: /assets/L1210863_JPG.jpg
 ---
 Inspired by the clotheslines in East Vancouver, *It was Spring When I Last Wrote to You* investigates notions of displacement and memory. The written component of this work takes form as a diasporic poem, one in which thoughts were given to subjects of interest in spontaneous manners. Language acts as the distorting mirror: words lose and regain parts of their meaning in the process of translation. In exploring the relationship between rememberance and lost, this work can be seen as an effort of preservation and an act of protection of thoughts in their formation.
 
-
-
 Credits:
 
 Artist: Xinyue Liu
@@ -17,8 +15,6 @@ Videographer: Xinyue Liu
 Photographer: Jennifer Tham
 
 Editor: Xinyue Liu
-
-
 
 ![](/assets/L1210863_JPG.jpg)
 
@@ -36,6 +32,6 @@ Editor: Xinyue Liu
 
 <div class="lines-2"></div>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/sJ2P8bIfJU8" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+`oembed: https://vimeo.com/624662353/65cd5fc7e7`
 
 <div class="lines-3"></div>
