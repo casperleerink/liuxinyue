@@ -28,6 +28,8 @@ Editor: Xinyue Liu
 
 `oembed: https://vimeo.com/624665159/9431243d31`
 
+<div class="lines-2"></div>
+
 <img src="/assets/empty.png" alt="" title="" class="half half-left"></img>
 
 <img src="/assets/window_1.gif" alt="" title="" class="half half-right"></img>
