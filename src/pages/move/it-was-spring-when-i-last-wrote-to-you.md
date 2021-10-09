@@ -30,7 +30,7 @@ Editor: Xinyue Liu
 
 ![](/assets/L12108.jpg)
 
-<div class="lines-2"></div>
+<div class="lines-4"></div>
 
 `oembed: https://vimeo.com/626828096/2d04e7c288`
 
