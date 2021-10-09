@@ -26,8 +26,6 @@ Videographer: Xinyue Liu
 
 Editor: Xinyue Liu
 
-`oembed: https://vimeo.com/624665159/9431243d31`
-
 <div class="lines-2"></div>
 
 <img src="/assets/empty.png" alt="" title="" class="half half-left"></img>
@@ -61,5 +59,11 @@ Editor: Xinyue Liu
 <img src="/assets/empty.png" alt="" title="" class="half half-left"></img>
 
 <img src="/assets/window_2.gif" alt="" title="" class="half half-right"></img>
+
+<div class="lines-5"></div>
+
+
+
+`oembed: https://vimeo.com/624665159/9431243d31`
 
 <div class="lines-5"></div>
