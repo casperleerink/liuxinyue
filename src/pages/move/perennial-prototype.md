@@ -2,7 +2,7 @@
 templateKey: move-page
 title: perennial
 date: "2020-04-14T07:00:00.000Z"
-mainImage: /assets/two-people-on-plane.png
+mainImage: /assets/xinyue_liu_5-2-.jpg
 ---
 <div class="lines-3"></div>
 
@@ -10,26 +10,20 @@ mainImage: /assets/two-people-on-plane.png
 
 <div class="lines-5"></div>
 
-Transmigratory birds
 
-Landing with two wings
 
-When is your next flight?
-
-<img src="/assets/ezgif.com-video-to-gif-copy.gif" alt="" title="" class="middle"></img>
+<img src="/assets/_mg_9072-edit.jpg" alt="" title="" class="middle"></img>
 
 <div class="lines-3"></div>
 
-Without knowing where you were going,
 
-We celebrated your departure.
 
 <div class="lines-2"></div>
 
-<img src="/assets/ezgif.com-video-to-gif.gif" alt="" title="" class="middle"></img>
+<img src="/assets/xinyue_liu_5-2-.jpg" alt="" title="" class="middle"></img>
 
 <div class="lines-2"></div>
 
-Hurrying to where?
+![](/assets/xinyue_liu_11.jpg)
 
 <div class="lines-4"></div>
