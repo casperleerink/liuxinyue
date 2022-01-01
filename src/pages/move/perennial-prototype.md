@@ -1,6 +1,6 @@
 ---
 templateKey: move-page
-title: perennial
+title: Perennial
 date: "2020-04-14T07:00:00.000Z"
 mainImage: /assets/xinyue_liu_5-2-.jpg
 ---
