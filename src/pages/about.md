@@ -3,11 +3,10 @@ templateKey: about-page
 ---
 ![](/assets/banner.png)
 
-Xinyue Liu is a visual artist whose work takes form in film, photography, text, and installation. She completed her Master of Fine Arts in Interdisciplinary Studies at Simon
-Fraser University and holds a Bachelor’s degree in Radio and Television Productions from
+Xinyue Liu is a visual artist whose work takes form in film, photography, text, and installation. She completed her Master of Fine Arts in Interdisciplinary Studies at Simon Fraser University and holds a Bachelor’s degree in Radio and Television Productions from
 Jilin University, China. 
 
-Often incorporating found objects and archival images, she explores themes of family, nostalgia, displacement, and memory.
+Often incorporating found objects and archival images, she explores themes of nostalgia, displacement, and memory.
 
 ![](/assets/end banner.png)
 
@@ -21,60 +20,68 @@ Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchu
 
 **Exhibitions**
 
-2020 | Multimedia Installation | *Perennial*, In Place of Sight, Audain Gallery, Vancouver, British Columbia
+Apr 2022 | Movement Performance (upcoming)
 
-2020 | Short Film | *Travel Sizes*, Project C, Cineworks VUCAVU, Vancouver, British Columbia
+*The Hug* with Clara Dance Project, Open Stage #2, The Dance Centre, Vancouver
 
-2020 | Movement Performance | *One More*, Dance Cafe, Vancouver, British Columbia
+Mar 2022 | Short Film (upcoming)
 
-2020 | Improv Opera | *Coral Calls for Cloud*, Collaboration with SFU Ensemble-in-Residence, Vancouver, British Columbia
+*Fixing My Leave*, Response: Soft Action, The Polygon Gallery, Vancouver
 
-2019 | Installation | *Conductivity*, Canadian Anthropology Society, Simon Fraser University, Vancouver, British Columbia
+Oct 2021 | Movement Performance
 
-2019 | Performance | *City of Bedrooms - For Zitkála-Šá*, Djavad Mowafaghian World Art Centre, Vancouver, British Columbia
+*The Hug* with Clara Dance Project, Vancouver Outsider Arts Festival, Vancouver
 
-2019 | Installation | *Time, togethe*r, Audain Gallery, Vancouver, British Columbia
+Aug 2021 | Short Film
 
-2018 | Interdisciplinary Performance | *I Looked into the Mirror and Saw*, Alexander Studios, Vancouver, British Columbia
+*Trace*, Small File Film Festival, Vancouver
 
-2018 | Documentary | *Sound of the water*, Vancouver Chinese Film Festival, Vancouver, British Columbia
+Jul 2021 | Performance
 
-<div class="lines-1"></div>
+*Ocean’s East*, Richmond Maritime Festival, Richmond
 
-**Grants and Awards**
+Feb 2021 | Film Installation
 
-2020 Shortlisted and Honourable Mention, Project C, Cineworks VUCAVU
+*Perennial*, Audain Gallery, Vancouver
 
-2020 CBC/Radio-Canada Grant, Canada Council
+Sep 2020 | Short Film
 
-2020 Elsie Jang Graduate Fellowship, Simon Fraser University
+*Travel Sizes*, Project C, Cineworks + VUCAVU, Vancouver
 
-2019 Graduate Fellowship, Simon Fraser University
+Aug 2020 | Movement Performance
 
-2019 Longlisted Artist, The Lind Prize, Polygon Gallery
+*One More (The Hug)* with Tomoyo Yamada, Dance Cafe, Vancouver
 
-2019 Travel and Minor Research Award, Simon Fraser University 
+May 2020 | Site-specific Installation
 
-2018 Special Graduate Entrance Scholarship, Simon Fraser University
+*The Study of a Kite*, 2254 McGill Street, Vancouver
 
-2017 Special Award, Looking China Youth Film Project, Academy for International Communication of Chinese Culture
+Jan 2020 | Short Film
 
-<div class="lines-1"></div>
+*Coral Calls for Cloud*, SFU Ensemble-in-Residence, Vancouver
 
-**Teaching and Research Experiences**
+Nov 2019 | Performance
 
-2020 | Teaching Assistant, Simon Fraser University
+*City of Bedrooms* - For Zitkála-Šá with Raven Chacon, Vancouver
 
-2020 | Photographer Assistant, Kent Kallberg Studios
+May 2019 | Installation
 
-2020 | Intern, Audain Gallery 
+*Time, togethe*r, Seams, Audain Gallery, Vancouver
 
-2019 | Teaching Assistant, Simon Fraser University
+Nov 2018 | Multidisciplinary Performance
 
-2019 | Photographer & Videographer, VANDOCUMENT
+*I Looked into the Mirror and Saw*, 611 Studios, Can Opener, Vancouver
 
-2018 | Research Assistant, Simon Fraser University
+Jun 2018 | Documentary
 
-2017 | Assistant Editor in Digital Marketing, Southern Weekly
+*The Grand year (大年)*, Jilin University, Changchun
+
+Mar 2018 | Documentary
+
+*Sound of the Water*, Vancouver Chinese Film Festival, Vancouver
+
+
+
+
 
 <div class="lines-5"></div>
