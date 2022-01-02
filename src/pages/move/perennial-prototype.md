@@ -34,105 +34,91 @@ Documentation by Rachel Topham & Hannah Campbell
 
 <img src="/assets/xinyue_liu_11.jpg" alt="" title="" class=""></img>
 
-Transcription of the texts:
+<div class="lines-3"></div>
 
-This is her
+Transcription of the texts on the backs of the photographs:
 
-凤芹
+*This is her*
 
-1945
+*凤芹*
 
-My baby age 1
+*1945*
 
+*My baby age 1*
 
 
-1949
 
-Victory
+*1949*
 
+*Victory*
 
 
-Class of 1952. Fu Xin Elementary school, Inner Mongolian Region
 
-Fuxin No. 2 People’s Hospital, 1965
+*Class of 1952. Fu Xin Elementary school, Inner Mongolian Region*
 
+*Fuxin No. 2 People’s Hospital, 1965*
 
 
-This is where we live
 
-Our house
+*This is where we live*
 
-With members of our brigade
+*Our house*
 
-Seth Billy Hilda
+*With members of our brigade*
 
-Billy Camilla Bonnie Billy Patrick
+*Seth Billy Hilda*
 
-Håkan o Gunilla
+*Billy Camilla Bonnie Billy Patrick*
 
+*Håkan o Gunilla*
 
 
-Garden in the house
 
-Two of the houses on the swimming beach. See the piling?
+*Garden in the house*
 
+*Two of the houses on the swimming beach. See the piling?*
 
 
-Sue Sada was here
 
+*Sue Sada was here*
 
 
-The first time we saw snow
 
+*The first time we saw snow*
 
+*Friday Oct4/67 Wedding Day*
 
-Friday Oct4/67 Wedding Day
+*Palace Versaille*
 
-Palace Versaille
+*Grand Canyon*
 
-Grand Canyon
+*Zwolle*
 
-Zwolle
+*Echo Lake*
 
+*The best of our times*
 
+*Your hair was long then*
 
-Echo Lake
+*Funeral*
 
+*An ending*
 
+*A beginning*
 
-The best of our times
 
 
+*和悦悦在劳动公园，悦悦和小鸟互动*
 
-Your hair was long then
+*Song Sparrow?*
 
-Funeral
+*Reunited in Canada, November 10, 2020*
 
-An ending
+*春，歸り道*
 
-A beginning
+*Forgetting*
 
-
-
-和悦悦在劳动公园，悦悦和小鸟互动
-
-Song Sparrow?
-
-
-
-Reunited in Canada, November 10, 2020
-
-
-
-春，歸り道
-
-
-
-Forgetting
-
-
-
-Remember this, kids?
+*Remember this, kids?*
 
 
 
