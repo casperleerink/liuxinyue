@@ -6,6 +6,10 @@ mainImage: /assets/20190410170545912-2.jpg
 ---
 <div class="lines-3"></div>
 
+`oembed: https://vimeo.com/624665159/9431243d31`
+
+<div class="lines-2"></div>
+
 *Time, together* is part of *seams*, a first-year Master of Fine Arts students Spring Show in the School for the Contemporary Arts, Simon Fraser University.
 
 *Time, together* deals with the fading of memory. As lived experience dims with time, its associated materials may nonetheless remain. Through a digital gaze, these photographs continue to live as things and to hold memories in place.
@@ -13,6 +17,8 @@ mainImage: /assets/20190410170545912-2.jpg
 Exhibition:
 
 May 02-11, Audain Gallery, SFU Goldcorp Centre for the Arts.
+
+<div class="lines-1"></div>
 
 Credits:
 
@@ -60,10 +66,8 @@ Editor: Xinyue Liu
 
 <img src="/assets/window_2.gif" alt="" title="" class="half half-right"></img>
 
-<div class="lines-5"></div>
 
 
 
-`oembed: https://vimeo.com/624665159/9431243d31`
 
-<div class="lines-5"></div>
+<div class="lines-4"></div>
