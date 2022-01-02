@@ -20,19 +20,17 @@ May 02-11, Audain Gallery, SFU Goldcorp Centre for the Arts.
 
 <div class="lines-1"></div>
 
-Credits:
 
-Artist: Xinyue Liu
 
 Curator: Cheyanne Turions
 
-Technician: Andrew Curtis, Benjamin Rogalsky
+Technician: Andrew Curtis & Benjamin Rogalsky
 
-Videographer: Xinyue Liu
 
-Editor: Xinyue Liu
 
 <div class="lines-2"></div>
+
+![](/assets/liu-time-1-2.png)
 
 <img src="/assets/empty.png" alt="" title="" class="half half-left"></img>
 
