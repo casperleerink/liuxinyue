@@ -12,9 +12,9 @@ Perennial - Film:
 
 <div class="lines-3"></div>
 
-Documentation: Rachel Topham, Hannah Campbell
+Documentation by Rachel Topham & Hannah Campbell
 
-<div class="lines-5"></div>
+<div class="lines-3"></div>
 
 <img src="/assets/_mg_9072-edit.jpg" alt="" title="" class=""></img>
 
