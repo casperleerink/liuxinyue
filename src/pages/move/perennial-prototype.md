@@ -20,7 +20,15 @@ Documentation by Rachel Topham & Hannah Campbell
 
 <div class="lines-3"></div>
 
+
+
+![](/assets/xinyue_liu_1-1-.jpg)
+
+<div class="lines-3"></div>
+
 <img src="/assets/xinyue_liu_5-2-.jpg" alt="" title="" class=""></img>
+
+
 
 <div class="lines-3"></div>
 
