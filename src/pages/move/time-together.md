@@ -10,11 +10,7 @@ Project documentation:
 
 `oembed: https://vimeo.com/624665159/9431243d31`
 
-<div class="lines-2"></div>
-
-
-
-<div class="lines-1"></div>
+<div class="lines-4"></div>
 
 
 
@@ -22,11 +18,11 @@ Curator: Cheyanne Turions
 
 Technician: Andrew Curtis & Benjamin Rogalsky
 
-
-
 <div class="lines-2"></div>
 
 ![](/assets/liu-time-1-2.png)
+
+<div class="lines-1"></div>
 
 <img src="/assets/empty.png" alt="" title="" class="half half-left"></img>
 
@@ -59,9 +55,5 @@ Technician: Andrew Curtis & Benjamin Rogalsky
 <img src="/assets/empty.png" alt="" title="" class="half half-left"></img>
 
 <img src="/assets/window_2.gif" alt="" title="" class="half half-right"></img>
-
-
-
-
 
 <div class="lines-4"></div>
