@@ -40,6 +40,6 @@ Editor: Xinyue Liu
 
 `oembed: https://vimeo.com/569491494`
 
-<div class="lines-3"></div>
+<div class="lines-5"></div>
 
 The artists couldn't get in touch with the photographer of these images, but if we were to cross paths in the future, please know that we are so thankful for your photographs, Mr.Logan.
