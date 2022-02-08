@@ -6,8 +6,7 @@ mainImage: /assets/WechatIMG463.jpg
 ---
 *V Gift* is a video installation piece that uses projection mapping on objects. It takes an intimate, ambiguous story into the body of an open suitcase. Each object is endowed with visual cues including words, phrases, sentences, and images which are designed to reveal the object's internal narrative. 
 
-The audience is invited to come forward and read into the suitcase. This piece
-is reflective of the artist’s personal journey to Canada, one that begins with the promise of hope and ends with feelings of doubt and regret.
+The audience is invited to come forward and read into the suitcase. This piece is reflective of the artist’s personal journey to Canada, one that begins with the promise of hope and ends with feelings of doubt and regret.
 
 Credits:
 
@@ -18,8 +17,6 @@ Videographer: Xinyue Liu
 Photographer: Joey Zaurrini
 
 Editor: Xinyue Liu
-
-
 
 ![](/assets/WechatIM.jpeg)
 
@@ -39,4 +36,4 @@ Editor: Xinyue Liu
 
 [](<>)
 
-<div class="lines-3"></div>
+<div class="lines-5"></div>
