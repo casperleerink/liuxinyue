@@ -12,8 +12,6 @@ Project documentation:
 
 <div class="lines-4"></div>
 
-
-
 Curator: Cheyanne Turions
 
 Technician: Andrew Curtis & Benjamin Rogalsky
@@ -56,4 +54,4 @@ Technician: Andrew Curtis & Benjamin Rogalsky
 
 <img src="/assets/window_2.gif" alt="" title="" class="half half-right"></img>
 
-<div class="lines-4"></div>
+<div class="lines-5"></div>
