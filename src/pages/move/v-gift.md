@@ -28,7 +28,9 @@ Editor: Xinyue Liu
 
 <img src="/assets/WechatIMG465.jpg" alt="" title="" class=""></img>
 
-<div class="lines-5"></div>
+<div class="lines-3"></div>
+
+<div class="lines-3"></div>
 
 `oembed: https://vimeo.com/674696296/4b51605b87`
 
