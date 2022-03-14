@@ -20,6 +20,10 @@ Documentation by Rachel Topham & Hannah Campbell
 
 <div class="lines-3"></div>
 
+"to scrutinize means to turn the photograph over, to enter into the paper's depth, to reach its other side...Alas, however hard I look, I discover nothing." 
+
+Roland Barthes, Camera Lucida.
+
 ![](/assets/xinyue_liu_1-1-.jpg)
 
 <div class="lines-3"></div>
