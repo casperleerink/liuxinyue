@@ -3,16 +3,20 @@ templateKey: about-page
 ---
 ![](/assets/banner.png)
 
-Xinyue Liu is a visual artist whose work takes form in film, photography, text, and installation. She completed her Master of Fine Arts in Interdisciplinary Studies at Simon Fraser University and holds a Bachelor’s degree in Radio and Television Productions from
-Jilin University, China. 
+Xinyue Liu is a visual artist and researcher whose work takes form in film, photography, text, and installation. She is currently pursuing her DPhil degree at the Ruskin School of Art, University of Oxford.
 
-Often incorporating found objects and archival images, she explores themes of nostalgia, displacement, and memory.
+She completed her Master of Fine Arts in Interdisciplinary Studies at Simon Fraser University and holds a Bachelor’s degree in Radio and Television Productions from Jilin University, China.
+
+\
+Often incorporating found objects and archival images, she explores themes of nostalgia, memory, and grief.
 
 ![](/assets/end banner.png)
 
 **Education**
 
-Simon Fraser University. M.F.A., Interdisciplinary Studies, Vancouver, Canada, 2018-now
+U﻿niversity of Oxford. DPhil, Fine Art, Oxofrd, UnK, 2022 - now
+
+Simon Fraser University. M.F.A., Interdisciplinary Studies, Vancouver, Canada, 2018-2020
 
 Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchun, China, 2014-2018
 
@@ -20,11 +24,13 @@ Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchu
 
 **Exhibitions**
 
-Apr 2022 | Movement Performance (upcoming)
+Mar 2023 | Installation\
+*Once She Dries*, Smush Gallery, Jersey City
 
-*The Hug* with Clara Dance Project, Open Stage #2, The Dance Centre, Vancouver
+Nov 2022 | Film Screening\
+*Travel Sizes*, XINEMA, VIFF, Vancouver
 
-Mar 2022 | Short Film (upcoming)
+Mar 2022 | Short Film
 
 *Fixing My Leave*, Response: Soft Action, The Polygon Gallery, Vancouver
 
@@ -79,9 +85,5 @@ Jun 2018 | Documentary
 Mar 2018 | Documentary
 
 *Sound of the Water*, Vancouver Chinese Film Festival, Vancouver
-
-
-
-
 
 <div class="lines-5"></div>
