@@ -3,7 +3,7 @@ templateKey: about-page
 ---
 ![](/assets/banner.png)
 
-Xinyue Liu is a visual artist and researcher whose work takes form in film, photography, text, and installation. She is currently pursuing her DPhil degree at The Ruskin School of Art, University of Oxford.
+Xinyue Liu is a visual artist and [researcher](https://oxford.academia.edu/XinyueLiu) whose work takes form in film, photography, text, and installation. She is currently pursuing her DPhil degree at [The Ruskin School of Art](https://www.rsa.ox.ac.uk/people/xinyue-liu), University of Oxford.
 
 She completed her Master of Fine Arts in Interdisciplinary Studies at Simon Fraser University and holds a Bachelor’s degree in Radio and Television Productions from Jilin University, China.
 
