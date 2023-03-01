@@ -12,6 +12,8 @@ mainImage: /assets/liu-fixing-my-leave.png
 
 ![](/assets/liu-screenshot-2-2-.png)
 
+<div class="lines-3"></div>
+
 *Fixing My Leave* thinks through what it means to identify with a fallen leaf. 
 
 I use archival footage to thread together three female figures—Daiyu Lin, Lulu Miller, and Yoko Ono—as a way of caring for a leaf that loses its tree.
