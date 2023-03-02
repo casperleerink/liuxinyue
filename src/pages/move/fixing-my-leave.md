@@ -4,8 +4,6 @@ title: Fixing My Leave
 date: "2023-03-01T00:00:00.000Z"
 mainImage: /assets/liu-fixing-my-leave.png
 ---
-
-
 <div class="lines-3"></div>
 
 ![](/assets/liu-fixing-my-leave.png)
@@ -14,7 +12,7 @@ mainImage: /assets/liu-fixing-my-leave.png
 
 ![](/assets/liu-screenshot-2-2-.png)
 
-
+<div class="lines-3"></div>
 
 *Fixing My Leave* thinks through what it means to identify with a fallen leaf. 
 
@@ -24,8 +22,6 @@ The film is created as part of the ‘[Response: Soft Action](https://thepolygon
 
 Written and edited by Xinyue Liu\
 Cinematography by Kristian David Michael Anderson
-
-
 
 <div class="lines-6"></div>
 
