@@ -36,4 +36,4 @@ mainImage: /assets/img_9547.jpg
 
 <div class="lines-1"></div>
 
-<img src="/assets/ball.jpg" alt="" title="" class=""></img>
+<img src="/assets/ball.jpg" alt="" title="" class="half half-right"></img>
