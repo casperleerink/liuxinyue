@@ -16,7 +16,7 @@ mainImage: /assets/img_9547.jpg
 
 <div class="lines-1"></div>
 
-`oembed: https://vimeo.com/user73975629/sightings?share=copy`
+`oembed: https://vimeo.com/manage/videos/810830999/7e2e13d35b`
 
 <div class="lines-1"></div>
 
@@ -27,8 +27,6 @@ mainImage: /assets/img_9547.jpg
 <img src="/assets/img_9231.jpg" alt="" title="" class="half half-right"></img>
 
 <div class="lines-1"></div>
-
-
 
 ![](/assets/img_9008.jpg)
 
