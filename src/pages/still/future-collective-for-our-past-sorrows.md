@@ -24,9 +24,11 @@ mainImage: /assets/img_9547.jpg
 
 <img src="/assets/img_9231.jpg" alt="" title="" class="half half-right"></img>
 
-<div class="lines-1"></div>
+<div class="lines-3"></div>
 
 `oembed: https://vimeo.com/user73975629/sightings?share=copy`
+
+<div class="lines-5"></div>
 
 ![](/assets/img_9008.jpg)
 
@@ -34,10 +36,4 @@ mainImage: /assets/img_9547.jpg
 
 <img src="/assets/img_9248.jpg" alt="" title="" class="half-right half"></img>
 
-<div class="lines-1"></div>
-
-
-
-
-
-<img src="/assets/sequence-01.00_00_45_22.still001-2.jpg" alt="" title="" class="half"></img>
+<div class="lines-5"></div>
