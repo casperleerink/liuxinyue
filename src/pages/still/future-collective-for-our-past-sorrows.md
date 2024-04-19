@@ -16,9 +16,7 @@ mainImage: /assets/img_9547.jpg
 
 <div class="lines-1"></div>
 
-`oembed: https://vimeo.com/user73975629/sightings?share=copy`
 
-<div class="lines-1"></div>
 
 ![](/assets/img_9547.jpg)
 
@@ -36,4 +34,8 @@ mainImage: /assets/img_9547.jpg
 
 <div class="lines-1"></div>
 
-<img src="/assets/ball.jpg" alt="" title="" class="half half-right"></img>
+
+
+
+
+<img src="/assets/sequence-01.00_00_45_22.still001-2.jpg" alt="" title="" class="half"></img>
