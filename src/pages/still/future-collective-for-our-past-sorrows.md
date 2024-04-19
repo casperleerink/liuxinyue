@@ -6,21 +6,19 @@ mainImage: /assets/img_9547.jpg
 ---
 <img src="/assets/watching.png" alt="" title="" class="half half-left"></img>
 
-<div class="lines-1"></div>
+<div class="lines-3"></div>
 
 <img src="/assets/img_9565.jpg" alt="" title="" class=""></img>
 
-<div class="lines-1"></div>
+<div class="lines-3"></div>
 
 <img src="/assets/img_9281.jpg" alt="" title="" class="half half-left"></img>
 
-<div class="lines-1"></div>
-
-
+<div class="lines-3"></div>
 
 ![](/assets/img_9547.jpg)
 
-<div class="lines-1"></div>
+<div class="lines-3"></div>
 
 <img src="/assets/img_9231.jpg" alt="" title="" class="half half-right"></img>
 
@@ -32,7 +30,7 @@ mainImage: /assets/img_9547.jpg
 
 ![](/assets/img_9008.jpg)
 
-<div class="lines-1"></div>
+<div class="lines-3"></div>
 
 <img src="/assets/img_9248.jpg" alt="" title="" class="half-right half"></img>
 
