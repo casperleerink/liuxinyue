@@ -20,13 +20,21 @@ mainImage: /assets/img_9547.jpg
 
 <div class="lines-3"></div>
 
-<img src="/assets/img_9231.jpg" alt="" title="" class="half half-right"></img>
 
-<div class="lines-3"></div>
+
+
+
+
 
 `oembed: https://vimeo.com/user73975629/sightings?share=copy`
 
+
+
 <div class="lines-5"></div>
+
+<img src="/assets/img_9231.jpg" alt="" title="" class="half half-left"></img>
+
+<div class="lines-3"></div>
 
 ![](/assets/img_9008.jpg)
 
