@@ -8,8 +8,6 @@ mainImage: /assets/watch-me-now.png
 
 <div class="lines-3"></div>
 
-
-
 <img src="/assets/5071717357142_.pic_hd.jpg" alt="" title="" class=""></img>
 
 L﻿isten to the audio tour here:
@@ -34,7 +32,7 @@ https://on.soundcloud.com/eqWgbXFobEkhunV46
 
 <div class="lines-3"></div>
 
-<img src="/assets/5081717357144_.pic_hd.jpg" alt="" title="" class="half half-right"></img>
+<img src="/assets/5081717357144_.pic_hd.jpg" alt="" title="" class="half-right half"></img>
 
 <div class="lines-3"></div>
 
