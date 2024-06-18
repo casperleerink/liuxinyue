@@ -2,7 +2,7 @@
 templateKey: still-page
 title: "Future Collective for Our Past Sorrows "
 date: "2024-02-05T00:00:00.000Z"
-mainImage: /assets/img_9547.jpg
+mainImage: /assets/watch-me-now.png
 ---
 <img src="/assets/5021717357132_.pic_hd.jpg" alt="" title="" class="half half-left"></img>
 
