@@ -28,10 +28,18 @@ mainImage: /assets/img_9547.jpg
 
 <div class="lines-3"></div>
 
-![](/assets/5081717357144_.pic_hd.jpg)
+<img src="/assets/5081717357144_.pic_hd.jpg" alt="" title="" class="half half-right"></img>
 
 <div class="lines-3"></div>
 
-<img src="/assets/5041717357135_.pic_hd.jpg" alt="" title="" class="half-right half"></img>
+<img src="/assets/5041717357135_.pic_hd.jpg" alt="" title="" class=""></img>
+
+<div class="lines-3"></div>
+
+<img src="/assets/wechatimg523.jpg" alt="" title="" class="half half-left"></img>
+
+<div class="lines-3"></div>
+
+<img src="/assets/5011717357129_.pic_hd.jpg" alt="" title="" class="half half-right"></img>
 
 <div class="lines-5"></div>
