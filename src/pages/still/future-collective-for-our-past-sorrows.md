@@ -8,11 +8,13 @@ mainImage: /assets/img_9547.jpg
 
 <div class="lines-3"></div>
 
-L﻿isten here:
 
-https://on.soundcloud.com/eqWgbXFobEkhunV46
 
 <img src="/assets/5071717357142_.pic_hd.jpg" alt="" title="" class=""></img>
+
+L﻿isten to the audio tour here:
+
+https://on.soundcloud.com/eqWgbXFobEkhunV46
 
 <div class="lines-3"></div>
 
