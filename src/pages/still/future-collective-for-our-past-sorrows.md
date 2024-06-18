@@ -4,19 +4,19 @@ title: "Future Collective for Our Past Sorrows "
 date: "2024-02-05T00:00:00.000Z"
 mainImage: /assets/img_9547.jpg
 ---
-<img src="/assets/watching.png" alt="" title="" class="half half-left"></img>
+<img src="/assets/5021717357132_.pic_hd.jpg" alt="" title="" class="half half-left"></img>
 
 <div class="lines-3"></div>
 
-<img src="/assets/img_9565.jpg" alt="" title="" class=""></img>
+<img src="/assets/5071717357142_.pic_hd.jpg" alt="" title="" class=""></img>
 
 <div class="lines-3"></div>
 
-<img src="/assets/img_9281.jpg" alt="" title="" class="half half-left"></img>
+<img src="/assets/5031717357133_.pic_hd.jpg" alt="" title="" class="half half-left"></img>
 
 <div class="lines-3"></div>
 
-![](/assets/img_9547.jpg)
+![](/assets/5061717357139_.pic_hd.jpg)
 
 <div class="lines-3"></div>
 
@@ -24,22 +24,14 @@ mainImage: /assets/img_9547.jpg
 
 
 
-
-
-`oembed: https://vimeo.com/user73975629/sightings?share=copy`
-
-
-
-<div class="lines-5"></div>
-
-<img src="/assets/img_9231.jpg" alt="" title="" class="half half-left"></img>
+<img src="/assets/5171717357162_.pic.jpg" alt="" title="" class="half half-left"></img>
 
 <div class="lines-3"></div>
 
-![](/assets/img_9008.jpg)
+![](/assets/5081717357144_.pic_hd.jpg)
 
 <div class="lines-3"></div>
 
-<img src="/assets/img_9248.jpg" alt="" title="" class="half-right half"></img>
+<img src="/assets/5041717357135_.pic_hd.jpg" alt="" title="" class="half-right half"></img>
 
 <div class="lines-5"></div>
