@@ -32,7 +32,7 @@ https://on.soundcloud.com/eqWgbXFobEkhunV46
 
 <div class="lines-3"></div>
 
-<img src="/assets/5081717357144_.pic_hd.jpg" alt="" title="" class="half-right half"></img>
+> <img src="/assets/5081717357144_.pic_hd.jpg" alt="" title="" class="half-right half"></img>
 
 <div class="lines-3"></div>
 
