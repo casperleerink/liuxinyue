@@ -12,8 +12,6 @@ L﻿isten here:
 
 https://on.soundcloud.com/eqWgbXFobEkhunV46
 
-
-
 <img src="/assets/5071717357142_.pic_hd.jpg" alt="" title="" class=""></img>
 
 <div class="lines-3"></div>
@@ -23,6 +21,10 @@ https://on.soundcloud.com/eqWgbXFobEkhunV46
 <div class="lines-3"></div>
 
 ![](/assets/5061717357139_.pic_hd.jpg)
+
+<div class="lines-3"></div>
+
+<img src="/assets/5001717357127_.pic_hd.jpg" alt="" title="" class=""></img>
 
 <div class="lines-3"></div>
 
