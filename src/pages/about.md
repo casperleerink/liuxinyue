@@ -26,11 +26,11 @@ Jilin University 吉林大学. B.F.A., Radio and Television Production, Changchu
 
 **Exhibitions**
 
-Apr 2024 | Film Screening\
-*Two Truths and a Lie about Snowdrops*, New Music Festival, Jacqueline du Pré Music Hall, St Hilda College, Oxford
-
 May - Jun 2024 | Solo exhibition\
 *Future Collective for Our Past Sorrows*, Dolphin Gallery, St John’s College, Oxford
+
+Apr 2024 | Film Screening\
+*Two Truths and a Lie about Snowdrops*, New Music Festival, Jacqueline du Pré Music Hall, St Hilda College, Oxford
 
 Mar 2023 | Installation\
 *Once She Dries*, Smush Gallery, Jersey City
