@@ -4,10 +4,6 @@ title: "Future Collective for Our Past Sorrows "
 date: "2024-02-05T00:00:00.000Z"
 mainImage: /assets/watch-me-now.png
 ---
-
-
-
-
 <img src="/assets/5021717357132_.pic_hd.jpg" alt="" title="" class="half half-left"></img>
 
 <div class="lines-4"></div>
@@ -34,15 +30,15 @@ The ultimate vision of ex-situ nature conservation is to restore and rejuvenate 
 
 I often think about a quote from James Baldwin: ‘The world is held together, really it is held together, by the love and the passion of a very few people.’ I often wonder what will happen when the love and passion of a few people dissipate; if they dissipate. I wonder who or what will hold on to the memories engendered by their efforts. This project is one attempt at answering such questions.
 
+<img src="/assets/20020422淇淇生前_张先锋拍摄.jpg" alt="" title="" class=""></img>
 
-
-
-
-<img src="/assets/5071717357142_.pic_hd.jpg" alt="" title="" class=""></img>
+I﻿mage courtesy of Professor Xianfeng Zhang. This is the last photo of Qiqi before he passed away in 2002.
 
 <div class="lines-3"></div>
 
 <img src="/assets/5031717357133_.pic_hd.jpg" alt="" title="" class="half half-left"></img>
+
+T﻿his image captures a softness of research ce
 
 <div class="lines-3"></div>
 
