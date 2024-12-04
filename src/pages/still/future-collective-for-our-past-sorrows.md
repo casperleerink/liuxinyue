@@ -38,8 +38,6 @@ I﻿mage courtesy of Professor Xianfeng Zhang. This is the last photo of Qiqi be
 
 <img src="/assets/5031717357133_.pic_hd.jpg" alt="" title="" class="half half-left"></img>
 
-T﻿his image captures a softness of research ce
-
 <div class="lines-3"></div>
 
 ![](/assets/5061717357139_.pic_hd.jpg)
@@ -66,6 +64,6 @@ T﻿his image captures a softness of research ce
 
 <div class="lines-3"></div>
 
-<img src="/assets/5011717357129_.pic_hd.jpg" alt="" title="" class="half half-right"></img>
+<img src="/assets/pic00015.jpg" alt="" title="" class="half half-right"></img>
 
 <div class="lines-5"></div>
