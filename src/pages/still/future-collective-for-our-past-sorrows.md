@@ -48,7 +48,7 @@ I﻿mage courtesy of Professor Xianfeng Zhang. This is the last photo of Qiqi be
 
 <div class="lines-3"></div>
 
-<img src="/assets/5171717357162_.pic.jpg" alt="" title="" class="half half-left"></img>
+<img src="/assets/img_9402.jpg" alt="" title="" class="half half-left"></img>
 
 <div class="lines-3"></div>
 
@@ -56,7 +56,7 @@ I﻿mage courtesy of Professor Xianfeng Zhang. This is the last photo of Qiqi be
 
 <div class="lines-3"></div>
 
-<img src="/assets/5041717357135_.pic_hd.jpg" alt="" title="" class=""></img>
+<img src="/assets/微信图片_20230727113912.png" alt="" title="" class=""></img>
 
 <div class="lines-3"></div>
 
