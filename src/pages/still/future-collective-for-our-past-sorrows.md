@@ -36,9 +36,9 @@ I﻿mage courtesy of Professor Xianfeng Zhang. This is the last photo of Qiqi be
 
 <div class="lines-3"></div>
 
-<img src="" alt="" title="" class="half half-left"></img>
 
-<div class="lines-3"></div>
+
+
 
 ![](/assets/img_9469.jpg)
 
