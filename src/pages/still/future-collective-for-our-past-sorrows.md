@@ -36,34 +36,38 @@ I﻿mage courtesy of Professor Xianfeng Zhang. This is the last photo of Qiqi be
 
 <div class="lines-3"></div>
 
-
-
-
-
 ![](/assets/img_9469.jpg)
+
+I﻿nside the institute.
 
 <div class="lines-3"></div>
 
 <img src="/assets/img_9090.jpg" alt="" title="" class=""></img>
 
-<div class="lines-3"></div>
-
-<img src="/assets/img_9402.jpg" alt="" title="" class="half half-left"></img>
+From the Institute of Hydrobiology, a diorama of the proposed future conservation centre. Date of construction unknown.
 
 <div class="lines-3"></div>
 
-> <img src="/assets/img_9386.jpg" alt="" title="" class="half-right half"></img>
+<img src="/assets/img_9402.jpg" alt="" title="" class=""></img>
+
+photographs found in a conference room
+
+<div class="lines-3"></div>
+
+> <img src="/assets/img_9386.jpg" alt="" title="" class=""></img>
 
 <div class="lines-3"></div>
 
 <img src="/assets/微信图片_20230727113912.png" alt="" title="" class=""></img>
 
-<div class="lines-3"></div>
-
-<img src="/assets/sequence-01.00_00_45_22.still001.jpg" alt="" title="" class="half half-left"></img>
+D﻿r Peixun Chen 陈佩熏, the pioneering female scientist in the conservation and protection of the Yangtze River Dolphin. 
 
 <div class="lines-3"></div>
 
-<img src="/assets/pic00015.jpg" alt="" title="" class="half half-right"></img>
+
+
+<img src="/assets/sequence-01.00_00_45_22.still001.jpg" alt="" title="" class=""></img>
+
+T﻿he pool, present view.
 
 <div class="lines-5"></div>
