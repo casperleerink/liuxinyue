@@ -48,13 +48,19 @@ From the Institute of Hydrobiology, a diorama of the proposed future conservatio
 
 <div class="lines-3"></div>
 
+
+
 <img src="/assets/img_9402.jpg" alt="" title="" class=""></img>
 
-photographs found in a conference room
+Framed photographs found in a conference room.
 
 <div class="lines-3"></div>
 
-> <img src="/assets/img_9386.jpg" alt="" title="" class=""></img>
+
+
+<img src="/assets/img_9386.jpg" alt="" title="" class=""></img>
+
+Tools and containers through the window of the institute's laboratory.
 
 <div class="lines-3"></div>
 
@@ -63,8 +69,6 @@ photographs found in a conference room
 D﻿r Peixun Chen 陈佩熏, the pioneering female scientist in the conservation and protection of the Yangtze River Dolphin. 
 
 <div class="lines-3"></div>
-
-
 
 <img src="/assets/sequence-01.00_00_45_22.still001.jpg" alt="" title="" class=""></img>
 
