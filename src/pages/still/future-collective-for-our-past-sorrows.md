@@ -18,7 +18,7 @@ In 1978, the Chinese Academy of Sciences established a research group –– the
 
 When I visited the institute last year, the pool in which Qiqi lived was deserted, taken over by a family who washed and cooked around it, turning the area into their backyard and storage unit.
 
-The institute now hosts 6 Yangtze finless porpoises. Contrary to the Baiji dolphin, the breeding of Yangtze finless porpoises was successful. The first artificially bred finless porpoise was born in 2005, followed by the second in 2007. Thanks to the ten-year fishing ban (2020-2023), more than 1,400 finless porpoises now live in the Yangtze River. Even with their rising population, the species is still critically endangered. I was lucky to see a few finless porpoises in the indoor pools during my visit, but I had a strange sense of urgency and loss.
+The institute now hosts 6 Yangtze finless porpoises. Contrary to the Baiji dolphin, the breeding of Yangtze finless porpoises was successful. The first artificially bred finless porpoise was born in 2005, followed by the second in 2007. Thanks to the ten-year fishing ban (2020-2030), more than 1,400 finless porpoises now live in the Yangtze River. Even with their rising population, the species is still critically endangered. I was lucky to see a few finless porpoises in the indoor pools during my visit, but I had a strange sense of urgency and loss.
 
 It’s noteworthy that these extinction events are closely connected to economic and societal rifts in China. In 1953, Chairman Mao Zedong proposed building the Three Gorges Project following an inspection of the river. The Chinese economic reform in 1978 further exacerbated ecological deterioration in and along the river. Activities such as overfishing, shipping, and environmental pollution made it impossible for the cetaceans to survive. Against these rapid changes, all personnel at the Institute of Hydrobiology, whether doing ichthyological or cetacean research, were tasked to report on fish resources and environmental protection measures. Reading their research papers and memoirs, it was clear to me that the scientists lamented the passing of species and are often left feeling hopeless. For them, it was obvious that the only reasonable solution was to halt harmful human activities, yet progress and development were above all else, an ‘inevitability’.
 
@@ -48,15 +48,11 @@ From the Institute of Hydrobiology, a diorama of the proposed future conservatio
 
 <div class="lines-3"></div>
 
-
-
 <img src="/assets/img_9402.jpg" alt="" title="" class=""></img>
 
 Framed photographs found in a conference room.
 
 <div class="lines-3"></div>
-
-
 
 <img src="/assets/img_9386.jpg" alt="" title="" class=""></img>
 
