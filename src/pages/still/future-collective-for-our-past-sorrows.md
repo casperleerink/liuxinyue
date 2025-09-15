@@ -30,44 +30,34 @@ The ultimate vision of ex-situ nature conservation is to restore and rejuvenate 
 
 I often think about a quote from James Baldwin: ‘The world is held together, really it is held together, by the love and the passion of a very few people.’ I often wonder what will happen when the love and passion of a few people dissipate; if they dissipate. I wonder who or what will hold on to the memories engendered by their efforts. This project is one attempt at answering such questions.
 
-<img src="/assets/20020422淇淇生前_张先锋拍摄.jpg" alt="" title="" class=""></img>
-
-I﻿mage courtesy of Professor Xianfeng Zhang. This is the last photo of Qiqi before he passed away in 2002.
+<img src="/assets/pool3.jpg" alt="" title="" class=""></img>
 
 <div class="lines-3"></div>
 
-![](/assets/img_9469.jpg)
-
-I﻿nside the institute.
+![](/assets/000016650036.jpg)
 
 <div class="lines-3"></div>
 
-<img src="/assets/img_9090.jpg" alt="" title="" class=""></img>
-
-From the Institute of Hydrobiology, a diorama of the proposed future conservation centre. Date of construction unknown.
+<img src="" alt="" title="" class=""></img>
 
 <div class="lines-3"></div>
 
-<img src="/assets/img_9402.jpg" alt="" title="" class=""></img>
-
-Framed photographs found in a conference room.
+<img src="/assets/whalewall.jpg" alt="" title="" class=""></img>
 
 <div class="lines-3"></div>
 
-<img src="/assets/img_9386.jpg" alt="" title="" class=""></img>
-
-Tools and containers through the window of the institute's laboratory.
+<img src="/assets/stairs.jpg" alt="" title="" class=""></img>
 
 <div class="lines-3"></div>
 
-<img src="/assets/微信图片_20230727113912.png" alt="" title="" class=""></img>
-
-D﻿r Peixun Chen 陈佩熏, the pioneering female scientist in the conservation and protection of the Yangtze River Dolphin. 
+<img src="/assets/window.jpg" alt="" title="" class=""></img>
 
 <div class="lines-3"></div>
 
-<img src="/assets/sequence-01.00_00_45_22.still001.jpg" alt="" title="" class=""></img>
-
-T﻿he pool, present view.
+<img src="/assets/wall.png" alt="" title="" class=""></img>
 
 <div class="lines-5"></div>
+
+
+
+![](/assets/statue.jpg)
