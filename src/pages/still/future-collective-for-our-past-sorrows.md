@@ -58,6 +58,6 @@ I often think about a quote from James Baldwin: ‘The world is held together, r
 
 <div class="lines-5"></div>
 
-
-
 ![](/assets/statue.jpg)
+
+<div class="lines-5"></div>
