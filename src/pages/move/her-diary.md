@@ -14,6 +14,6 @@ Artist: Xinyue Liu
 
 <div class="lines-5"></div>
 
-`oembed: https://vimeo.com/674696351/cede38fe21`
+`oembed: https://vimeo.com/674696351?share=copy&fl=sv&fe=ci`
 
 <div class="lines-5"></div>
