@@ -32,6 +32,6 @@ Editor: Xinyue Liu
 
 <div class="lines-4"></div>
 
-`oembed: https://vimeo.com/626828096/2d04e7c288`
+`oembed: https://vimeo.com/626828096?share=copy&fl=sv&fe=ci`
 
 <div class="lines-5"></div>
