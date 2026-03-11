@@ -32,7 +32,7 @@ Editor: Xinyue Liu
 
 <div class="lines-3"></div>
 
-`oembed: https://vimeo.com/674696296/4b51605b87`
+`oembed: https://vimeo.com/674696296?share=copy&fl=sv&fe=ci`
 
 [](<>)
 
